@@ -14,6 +14,7 @@ function setCookie(email,token,name,guildID,fame,rank) {
 
 //console.log("Called.");
 var id =0;
+var tmp = [];
 var loggedIn = false;
 var email = "";
 var token = "";
@@ -165,13 +166,21 @@ function main(){
     console.log("Empty Email. Not logging in.");
     try{
           if(reqLogin){
-            tmp = [];
+
+          tmp = [];
+          var result = "";
           var items = location.search.substr(1).split("&");
           for (var index = 0; index < items.length; index++) {
               tmp = items[index].split("=");
               if (tmp[0] === "item") result = decodeURIComponent(tmp[1]);
           }
-          if(result != null){
+          if(result == ""){
+
+            window.location.href = "\\~login.php";
+            
+          }
+          else{
+            
             if(window.location.pathname.indexOf("buy") !== -1){
               window.location.href = "\\~login.php?item=" + encodeURI(result) +"&loc=buy";
             }else if(window.location.pathname.indexOf("sell") !== -1){
@@ -179,15 +188,12 @@ function main(){
             }else if(window.location.pathname.indexOf("market") !== -1){
               window.location.href = "\\~login.php?item=" + encodeURI(result) +"&loc=market";
             }
-            
           }
-          else{window.location.href = "\\~login.php";
         }
-          }
         }catch(excp){
           //console.log("Login not required.");
           loaderOff();
-                  }
+         }
   }
 
 
@@ -205,12 +211,13 @@ function main(){
         try{
          if(reqLogin){
             tmp = [];
+            var result = "";
           var items = location.search.substr(1).split("&");
           for (var index = 0; index < items.length; index++) {
               tmp = items[index].split("=");
               if (tmp[0] === "item") result = decodeURIComponent(tmp[1]);
           }
-          if(result != null){
+          if(result != ""){
             if(window.location.pathname.indexOf("buy")!==-1){
               window.location.href = "\\~login.php?item=" + encodeURI(result) +"&loc=buy";
             }else if(window.location.pathname.indexOf("sell")!==-1){
@@ -219,7 +226,9 @@ function main(){
               window.location.href = "\\~login.php?item=" + encodeURI(result) +"&loc=market";
             }
           }
-          else{window.location.href = "\\~login.php";}
+          else{
+            console.log("Redirecting.");
+            window.location.href = "\\~login.php";}
           }
         }catch(excp){
           //console.log(excp);
@@ -530,6 +539,16 @@ function itmSelSearchItems(){
 
   //console.log(searchVal);
   items = document.getElementsByClassName('itemSelectorItem');
+  //console.log(items);
+  for(var i = 0;i<items.length;i++){
+    cur = items[i];
+    if(cur.id.toLowerCase().indexOf(searchVal) == -1){
+      cur.style.display = "none";
+    }else{
+      cur.style.display = "grid";
+    }
+  }
+  items = document.getElementsByClassName('itemSelectorItemHidden');
   //console.log(items);
   for(var i = 0;i<items.length;i++){
     cur = items[i];
