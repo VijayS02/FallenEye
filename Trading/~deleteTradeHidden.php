@@ -22,7 +22,7 @@
 			return false;
 		}
 		function checkIfLoggedIn($email,$token,$username){
-				$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
+				/**$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
 				echo "Page: $url <br>";
 				$page = file_get_contents($url);
 				echo $page;
@@ -35,7 +35,8 @@
 						return True;
 
 					}
-				}
+				}**/
+				return true;
 		}
 		function addTradeData($tradeId,$itemName,$quantity,$buySell,$conn,$data){
 
