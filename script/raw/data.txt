@@ -1,0 +1,1307 @@
+Candy of Ominous Spells,Equipment,autumnNexusObjects8x8,0x433,0x41ea
+Test Enemy Item,Equipment,lofiChar8x8,0xb5,0x702
+Sword of the Fallen,Equipment,custom8x8,0x040,0x5260
+Helm of the Fallen,Equipment,custom8x8,0x042,0x5261
+Armor of the Fallen,Equipment,custom8x8,0x043,0x5262
+Trophy of the Fallen,Equipment,custom8x8,0x044,0x5263
+Destructor Dagger,Equipment,custom8x8,0x045,0x5264
+Destructor Armor,Equipment,custom8x8,0x048,0x5265
+Destructor Cloak,Equipment,custom8x8,0x047,0x5266
+Ring of the Destructor,Equipment,custom8x8,0x049,0x5267
+Blade of the Fallen Sky,Equipment,custom8x8,0x090,0x5287
+Undead's Gross Bow,Equipment,custom8x8,0x091,0x5288
+Dagger of the Endless Void,Equipment,custom8x8,0x092,0x5289
+Radiant Wand of Royalism,Equipment,custom8x8,0x093,0x528a
+Crystallized Ring of Hatred,Equipment,custom8x8,0x094,0x528b
+Bright Robe of the Crystals,Equipment,custom8x8,0x095,0x528c
+Crystallized Scepter,Equipment,custom8x8,0x096,0x528d
+Molten Katana,Equipment,custom8x8,0x097,0x528e
+Dreadstump's Rapier,Equipment,custom8x8,0x098,0x528f
+Himura's Katana,Equipment,custom8x8,0x09a,0x5290
+Fang of Frost,Equipment,custom8x8,0x09c,0x5291
+Leviathan's Repentance,Equipment,custom8x8,0x09d,0x5292
+Hallow's End,Equipment,custom8x8,0x09e,0x5293
+Shattered War Axe,Equipment,custom8x8,0x09f,0x5294
+Metal Blood Bow,Equipment,custom8x8,0xa0,0x5295
+Sword of the Aquatic God,Equipment,custom8x8,0xa1,0x5296
+Seal of the Aquatic God,Equipment,custom8x8,0xa3,0x5297
+Armor of the Aquatic God,Equipment,custom8x8,0xa4,0x5298
+Ring of the Aquatic God,Equipment,custom8x8,0xa5,0x5299
+Sword of the Demon Lord,Equipment,custom8x8,0xa6,0x529b
+Helm of the Demon Lord,Equipment,custom8x8,0xa7,0x529c
+Armor of the Demon Lord,Equipment,custom8x8,0xa8,0x529d
+Ring of the Demon Lord,Equipment,custom8x8,0xa9,0x529e
+Wand of the Rising Star,Equipment,custom8x8,0xb0,0x529f
+Sweet Sugar Rush Staff,Equipment,custom8x8,0xb2,0x5300
+Shield of Vendettas,Equipment,custom8x8,0xb4,0x5301
+Carnivorous Sentient Spell,Equipment,custom8x8,0xb5,0x5302
+Candy Robe,Equipment,custom8x8,0xb7,0x5303
+Omega Ancient Sword,Equipment,custom8x8,0xb8,0x5304
+Alpha Ancient Seal,Equipment,custom8x8,0xb9,0x5305
+Ancient Stone Guardian Armor,Equipment,custom8x8,0xba,0x5306
+Janus Eye Ring,Equipment,custom8x8,0xbb,0x5307
+Burger K-ring,Equipment,custom8x8,0xaf,0x5308
+Bow of the Lightning God,Equipment,custom8x8,0xc0,0x5309
+Lightning God Quiver,Equipment,custom8x8,0xc1,0x530a
+Lightning God Armor,Equipment,custom8x8,0xc2,0x530b
+Lightning God Ring,Equipment,custom8x8,0xc3,0x530c
+Acid Katana,Equipment,custom8x8,0xc5,0x530d
+Acid Star,Equipment,custom8x8,0xc6,0x530e
+Acid Armor,Equipment,custom8x8,0xc7,0x530f
+Acid Ring,Equipment,custom8x8,0xc8,0x5310
+PoOoOoOokkErrRr,Equipment,custom8x8,0xd5,0x5312
+Doom Katana,Equipment,custom8x8,0xe1,0x5315
+Skull of the Eagle Sentry,Equipment,custom8x8,0xe0,0x5316
+Wooden Armor of the Apple Tree,Equipment,custom8x8,0xe2,0x5317
+Greeni,Equipment,custom8x8,0xee,0x5319
+Special Crate,Equipment,custom8x8,0x008,0x533d
+Item Crate,Equipment,custom8x8,0x009,0x533e
+Potion Crate,Equipment,custom8x8,0x00a,0x533f
+Miscellaneous Crate,Equipment,custom8x8,0x00b,0x5356
+Handcannon,Equipment,custom8x8,0x07d,0x540e
+Dagger of Goddess of Goddesses,Equipment,custom8x8,0xca,0x5477
+Armor of the Blue Depths,Equipment,custom8x8,0xcc,0x5478
+Cloak of the 1000 Oceans,Equipment,custom8x8,0xcb,0x5479
+Oceanic Treasure,Equipment,custom8x8,0xcd,0x547a
+Magnificent Receipt,Equipment,custom8x8,0x061,0x5481
+Work of the Alchemist,Equipment,custom8x8,0x062,0x5482
+Lucky Box,Equipment,custom8x8,0x001,0x548f
+Lucky Potion,Equipment,custom8x8,0x002,0x5490
+Realm Power,Equipment,custom8x8_2,0x000,0x5500
+Throwing Spear,Equipment,custom8x8_2,0x010,0x5501
+Windcutter,Equipment,custom8x8_2,0x040,0x5506
+Firebreather's Tail,Equipment,custom8x8_2,0x070,0x5508
+The Searing Blood,Equipment,custom8x8_2,0x072,0x5509
+The Scorched Armor,Equipment,custom8x8_2,0x073,0x550a
+Eyes of the Firebreather,Equipment,custom8x8_2,0x074,0x550b
+Head of the Firebreather,Equipment,custom8x8_2,0x080,0x550c
+The Searing Shower,Equipment,custom8x8_2,0x082,0x550d
+The Incombustible Robe,Equipment,custom8x8_2,0x083,0x550e
+Flames in a Bottle,Equipment,custom8x8_2,0x084,0x550f
+The Seaweed Sword,Equipment,custom8x8_2,0x090,0x5510
+Head of the Riverborn,Equipment,custom8x8_2,0x092,0x5511
+The Drenched Armor,Equipment,custom8x8_2,0x093,0x5512
+Tail of the Riverborn,Equipment,custom8x8_2,0x094,0x5513
+The Winged Wand,Equipment,custom8x8_2,0x0a0,0x5514
+Book of the Rejuvenating River,Equipment,custom8x8_2,0x0a2,0x5515
+The River Robe,Equipment,custom8x8_2,0x0a3,0x5516
+Water from the River,Equipment,custom8x8_2,0x0a4,0x5517
+Shadowscale's Horn,Equipment,custom8x8_2,0x0b0,0x5518
+Shadow Scales,Equipment,custom8x8_2,0x0b2,0x5519
+The Hidden Armor,Equipment,custom8x8_2,0x0b3,0x551a
+Wing Necklace,Equipment,custom8x8_2,0x0b4,0x551b
+Shadowbone Sword,Equipment,custom8x8_2,0x0c0,0x551c
+Shadowscale's Skull,Equipment,custom8x8_2,0x0c2,0x551d
+The Scavenger's Attire,Equipment,custom8x8_2,0x0c3,0x551e
+Candlestick,Equipment,custom8x8_2,0x0c4,0x551f
+Broken Branch,Equipment,custom8x8_2,0x0d0,0x5520
+Treesmasher's Tail,Equipment,custom8x8_2,0x0d2,0x5521
+The Relentless Armor,Equipment,custom8x8_2,0x0d3,0x5522
+Spikes of the Treesmasher,Equipment,custom8x8_2,0x0d4,0x5523
+Wooden Elegance,Equipment,custom8x8_2,0x0e0,0x5524
+The Split Arrow,Equipment,custom8x8_2,0x0e2,0x5525
+Champion's Attire,Equipment,custom8x8_2,0x0e3,0x5526
+Practice Target,Equipment,custom8x8_2,0x0e4,0x5527
+Sword of Oryx,Equipment,custom8x8_2,0x14c,0x554d
+Helm of Oryx,Equipment,custom8x8_2,0x14d,0x554e
+Armor of Oryx,Equipment,custom8x8_2,0x14e,0x554f
+Ring of Oryx,Equipment,custom8x8_2,0x14f,0x5550
+Staff of Nature,Equipment,custom8x8_2,0x148,0x5555
+Spell Full of Nature,Equipment,custom8x8_2,0x149,0x5556
+Robe of the Nature Goddess,Equipment,custom8x8_2,0x14a,0x5557
+Ring of the Nature Goddess,Equipment,custom8x8_2,0x14b,0x5558
+Gravedigger's Shovel,Equipment,custom8x8_2,0x0b5,0x555c
+The Soul Collector,Equipment,custom8x8_2,0x0b7,0x555d
+Gravedigger's Disguise,Equipment,custom8x8_2,0x0b8,0x555e
+The Soul Ring,Equipment,custom8x8_2,0x0b9,0x555f
+Rotting Arm,Equipment,custom8x8_2,0x0c5,0x5560
+Carrier's Suit,Equipment,custom8x8_2,0x0e5,0x5561
+The Consumed Ring,Equipment,custom8x8_2,0x0f5,0x5562
+Head Full of Brains,Equipment,custom8x8_2,0x0d5,0x5563
+Soul Scatter,Equipment,custom8x8_2,0x0d6,0x5564
+The Unbreakable Tombstone,Equipment,custom8x8_2,0x0d7,0x5565
+Potion of Growth,Equipment,custom8x8_2,0x007,0x556c
+Potion of Ants,Equipment,custom8x8_2,0x006,0x556d
+Rigged Potion of the Alchemist,Equipment,custom8x8_2,0x005,0x556e
+Small Nodestone,Equipment,custom8x8_2,0x025,0x5574
+Big Nodestone,Equipment,custom8x8_2,0x015,0x5576
+Galactic Small Nodestone,Equipment,custom8x8_2,0x026,0x557f
+Galactic Big Nodestone,Equipment,custom8x8_2,0x016,0x5580
+Heavy Bow of the Asgard Guardian,Equipment,custom8x8_2,0x0f6,0x565f
+Quiver of the Asgard Ruins,Equipment,custom8x8_2,0x0f7,0x5660
+Leather Armor of the Asgard Guardian,Equipment,custom8x8_2,0x0f8,0x5661
+Asgard's Treasure,Equipment,custom8x8_2,0x0f9,0x5662
+Ring of the Poker King,Equipment,custom8x8_2,0x09d,0x566a
+Ring of the Encounter,Equipment,custom8x8_2,0x039,0x567f
+Ring of the Mystical Encounter,Equipment,custom8x8_2,0x03b,0x5680
+Scepter of the Encounter,Equipment,custom8x8_2,0x03a,0x5681
+An actual cookie,Equipment,custom8x8_2,0x068,0x5689
+A skull covered in chocolate,Equipment,custom8x8_2,0x069,0x568a
+A trap made of cookies,Equipment,custom8x8_2,0x06a,0x568b
+A triangular cookie,Equipment,custom8x8_2,0x06b,0x568c
+Enchanted Uru Sword,Equipment,custom8x8_2,0x1c5,0x5732
+Gungnir,Equipment,custom8x8_2,0x1f5,0x5733
+Hela's Power,Equipment,custom8x8_2,0x205,0x5734
+Loki's Dagger,Equipment,custom8x8_2,0x1d5,0x5735
+Loki's Raiment,Equipment,custom8x8_2,0x1d9,0x5736
+Thor's Armor,Equipment,custom8x8_2,0x1e6,0x5737
+Odin's Attire,Equipment,custom8x8_2,0x1f9,0x5738
+Hela's Robe,Equipment,custom8x8_2,0x208,0x5739
+Helmet of Thor,Equipment,custom8x8_2,0x1e7,0x573a
+Thor's Bracelets,Equipment,custom8x8_2,0x1e8,0x573b
+Hela's Horns,Equipment,custom8x8_2,0x209,0x573c
+Golden Asgardian Helmet,Equipment,custom8x8_2,0x215,0x573d
+Platinum Asgardian Helmet,Equipment,custom8x8_2,0x216,0x573e
+Obsidian Asgardian Helmet,Equipment,custom8x8_2,0x217,0x573f
+Gjallarhorn,Equipment,custom8x8_2,0x1c7,0x5740
+Music of the Gods,Equipment,custom8x8_2,0x1c8,0x5741
+Trickster's Toy,Equipment,custom8x8_2,0x1d7,0x5742
+Loki's Horns,Equipment,custom8x8_2,0x1d8,0x5743
+Mjolnir,Equipment,custom8x8_2,0x1e5,0x5744
+Odin's Ravens,Equipment,custom8x8_2,0x1f7,0x5745
+Hela's Essence,Equipment,custom8x8_2,0x207,0x5746
+Warbringer's Flagpole,Equipment,custom8x8_2,0x240,0x5749
+Wand Full of Mana,Equipment,custom8x8_2,0x246,0x574b
+Arcane Bait,Equipment,custom8x8_2,0x245,0x574c
+Wooden Head from the Totem,Equipment,custom8x8_2,0x250,0x574f
+Mysterious Incantation,Equipment,custom8x8_2,0x251,0x5750
+A Worthy Jewel,Equipment,custom8x8_2,0x257,0x5754
+A Precious Rock,Equipment,custom8x8_2,0x258,0x5756
+A Desirable Ornament,Equipment,custom8x8_2,0x259,0x5757
+Hornshot,Equipment,custom8x8_2,0x260,0x5759
+Spit of a Troll,Equipment,custom8x8_2,0x262,0x575a
+Ortar's Enchantment,Equipment,custom8x8_2,0x263,0x575b
+Ring of Ortar,Equipment,custom8x8_2,0x264,0x575c
+Gem Gem's Gem,Equipment,custom8x8_2,0x269,0x5764
+Reset Scroll (SP),Equipment,custom8x8,0x020,0x5766
+Asura,Equipment,custom8x8,0x022,0x5793
+Traceless,Equipment,custom8x8,0x023,0x5794
+Malevolent Armor,Equipment,custom8x8,0x024,0x5795
+Forsaken Ring,Equipment,custom8x8,0x25,0x5796
+The Frozen Tome,Equipment,custom8x8,0x30,0x5797
+Ring of the Cosmos,Equipment,custom8x8,0x021,0x57a1
+Powerful Twig,Equipment,custom8x8,0x037,0x57aa
+Linen Coat,Equipment,custom8x8,0x03a,0x57ab
+Gray Belt,Equipment,custom8x8,0x03b,0x57ac
+Swamp Mirror,Equipment,custom8x8,0x039,0x57ad
+Spectral's Cloak,Equipment,custom8x8,0x03c,0x57af
+Bel's Decapitator,Equipment,custom8x8,0x13a,0x57f2
+Helm of the Necropolis,Equipment,custom8x8,0x13b,0x57f4
+Thusala's Slasher,Equipment,custom8x8,0x138,0x57f5
+Seal of the Necropolis,Equipment,custom8x8,0x123,0x57f7
+Necrotic Boneplate,Equipment,custom8x8,0x133,0x57f8
+Titan's Breastplate,Equipment,custom8x8,0x126,0x57f9
+Bone Splinter Robe,Equipment,custom8x8,0x136,0x57fa
+Bonemail of the Fallen,Equipment,custom8x8,0x125,0x57fb
+Wand of Bone,Equipment,custom8x8,0x135,0x57fe
+Reaper's Bow,Equipment,custom8x8,0x120,0x5801
+Orb of Destiny,Equipment,custom8x8,0x127,0x5803
+Elithor's Soul Bottle,Equipment,custom8x8,0x143,0x5804
+The Twilight Grimoire,Equipment,custom8x8,0x142,0x5805
+Limbsplit Quiver,Equipment,custom8x8,0x13f,0x5806
+Flesh Trap,Equipment,custom8x8,0x132,0x5808
+Wall of Gore,Equipment,custom8x8,0x129,0x5809
+Tome of Fleshly Desire,Equipment,custom8x8,0x122,0x580b
+Ring of Fleshly Desire,Equipment,custom8x8,0x128,0x580c
+Lycaon's Heart,Equipment,custom8x8,0x145,0x580d
+Claw of the Beast,Equipment,custom8x8,0x13c,0x580e
+Necklace of Fangs,Equipment,custom8x8,0x13e,0x5810
+Lycaon's Hide,Equipment,custom8x8,0x124,0x5811
+The Apex Bulwark,Equipment,custom8x8,0x141,0x5812
+Skull of Vampirism,Equipment,custom8x8,0x137,0x5814
+The Cape of Twilight,Equipment,custom8x8,0x134,0x5815
+Scepter of the Ancients,Equipment,custom8x8,0x144,0x5816
+Mini Strength,Equipment,custom8x8_2,0x017,0x5822
+Perfectionist,Equipment,custom16x16,0x02a,0x5823
+Arcane Surge,Equipment,custom16x16,0x038,0x5824
+Solo Thief,Equipment,custom16x16,0x04d,0x5825
+Mini Protection,Equipment,custom8x8_2,0x018,0x5826
+Mini Mobility,Equipment,custom8x8_2,0x019,0x5827
+Mini Precision,Equipment,custom8x8_2,0x01a,0x5828
+Mini Spirit,Equipment,custom8x8_2,0x01b,0x5829
+Mini Enlightenment,Equipment,custom8x8_2,0x01c,0x582a
+Aggressive Agitator,Equipment,custom16x16,0x028,0x582b
+Adrenaline Rush,Equipment,custom16x16,0x029,0x582c
+Narrow Sighted Magic,Equipment,custom16x16,0x02b,0x582d
+Consistent Onslaught,Equipment,custom16x16,0x02c,0x582e
+Mana Hunger,Equipment,custom16x16,0x02d,0x582f
+Regeneration of the Brute,Equipment,custom16x16,0x039,0x5830
+Bulwark of the Surgeon,Equipment,custom16x16,0x03a,0x5831
+Blood Pact,Equipment,custom16x16,0x03b,0x5832
+Blissful Ignorance,Equipment,custom16x16,0x03c,0x5833
+Biding Time,Equipment,custom16x16,0x03d,0x5834
+Dreadstump's Greed,Equipment,custom16x16,0x048,0x5835
+Pot Head,Equipment,custom16x16,0x049,0x5836
+Rare Obsession,Equipment,custom16x16,0x04a,0x5837
+Restoration Temptation,Equipment,custom16x16,0x04b,0x5838
+Eye for an Eye,Equipment,custom16x16,0x04c,0x5839
+Boneshatter,Equipment,custom8x8,0x14a,0x583a
+Mini Health,Equipment,custom8x8_2,0x01e,0x5858
+Mini Magic,Equipment,custom8x8_2,0x01f,0x5859
+Head of the Medusa,Equipment,custom8x8,0x04a,0x5960
+Stem of the Brain,Equipment,custom8x8,0x04b,0x5961
+Eye of the Beholder,Equipment,custom8x8,0x05a,0x5963
+Bark of the Ent,Equipment,custom8x8,0x05b,0x5964
+Starfish,Equipment,custom8x8,0x05d,0x5966
+Dreadstump's Cannon,Equipment,custom8x8,0x04d,0x5968
+Ice Shatter,Equipment,custom8x8,0x50,0x5970
+A Yeti's Horn,Equipment,custom8x8,0x63,0x5972
+Yeti Walkers,Equipment,custom8x8,0x64,0x5974
+Wand of the Frozen Queen,Equipment,custom8x8,0x51,0x5975
+Garb of the Frozen Queen,Equipment,custom8x8,0x52,0x5977
+Amulet of Ascension,Equipment,custom8x8,0x53,0x5978
+Star of Bones,Equipment,custom8x8,0x2c,0x5979
+Soulfester,Equipment,custom8x8,0x14e,0x597a
+TN Plans_)_ Staff of Annihilation,Equipment,custom8x8,0x14d,0x597b
+Alice Blue Clothing Dye,Dye,lofiObj3,0x10,0x1000
+Alice Blue Accessory Dye,Dye,lofiObj3,0x19,0x1100
+Antique White Clothing Dye,Dye,lofiObj3,0x10,0x1001
+Antique White Accessory Dye,Dye,lofiObj3,0x19,0x1101
+Aqua Clothing Dye,Dye,lofiObj3,0x10,0x1002
+Aqua Accessory Dye,Dye,lofiObj3,0x19,0x1102
+Aquamarine Clothing Dye,Dye,lofiObj3,0x10,0x1003
+Aquamarine Accessory Dye,Dye,lofiObj3,0x19,0x1103
+Azure Clothing Dye,Dye,lofiObj3,0x10,0x1004
+Azure Accessory Dye,Dye,lofiObj3,0x19,0x1104
+Beige Clothing Dye,Dye,lofiObj3,0x10,0x1005
+Beige Accessory Dye,Dye,lofiObj3,0x19,0x1105
+Bisque Clothing Dye,Dye,lofiObj3,0x10,0x1006
+Bisque Accessory Dye,Dye,lofiObj3,0x19,0x1106
+Black Clothing Dye,Dye,lofiObj3,0x10,0x1007
+Black Accessory Dye,Dye,lofiObj3,0x19,0x1107
+Blanched Almond Clothing Dye,Dye,lofiObj3,0x10,0x1008
+Blanched Almond Accessory Dye,Dye,lofiObj3,0x19,0x1108
+Blue Clothing Dye,Dye,lofiObj3,0x10,0x1009
+Blue Accessory Dye,Dye,lofiObj3,0x19,0x1109
+Blue Violet Clothing Dye,Dye,lofiObj3,0x10,0x100a
+Blue Violet Accessory Dye,Dye,lofiObj3,0x19,0x110a
+Brown Clothing Dye,Dye,lofiObj3,0x10,0x100b
+Brown Accessory Dye,Dye,lofiObj3,0x19,0x110b
+Burly Wood Clothing Dye,Dye,lofiObj3,0x10,0x100c
+Burly Wood Accessory Dye,Dye,lofiObj3,0x19,0x110c
+Cadet Blue Clothing Dye,Dye,lofiObj3,0x10,0x100d
+Cadet Blue Accessory Dye,Dye,lofiObj3,0x19,0x110d
+Chartreuse Clothing Dye,Dye,lofiObj3,0x10,0x100e
+Chartreuse Accessory Dye,Dye,lofiObj3,0x19,0x110e
+Chocolate Clothing Dye,Dye,lofiObj3,0x10,0x100f
+Chocolate Accessory Dye,Dye,lofiObj3,0x19,0x110f
+Coral Clothing Dye,Dye,lofiObj3,0x10,0x1010
+Coral Accessory Dye,Dye,lofiObj3,0x19,0x1110
+Cornflower Blue Clothing Dye,Dye,lofiObj3,0x10,0x1011
+Cornflower Blue Accessory Dye,Dye,lofiObj3,0x19,0x1111
+Cornsilk Clothing Dye,Dye,lofiObj3,0x10,0x1012
+Cornsilk Accessory Dye,Dye,lofiObj3,0x19,0x1112
+Crimson Clothing Dye,Dye,lofiObj3,0x10,0x1013
+Crimson Accessory Dye,Dye,lofiObj3,0x19,0x1113
+Cyan Clothing Dye,Dye,lofiObj3,0x10,0x1014
+Cyan Accessory Dye,Dye,lofiObj3,0x19,0x1114
+Dark Blue Clothing Dye,Dye,lofiObj3,0x10,0x1015
+Dark Blue Accessory Dye,Dye,lofiObj3,0x19,0x1115
+Dark Cyan Clothing Dye,Dye,lofiObj3,0x10,0x1016
+Dark Cyan Accessory Dye,Dye,lofiObj3,0x19,0x1116
+Dark Golden Rod Clothing Dye,Dye,lofiObj3,0x10,0x1017
+Dark Golden Rod Accessory Dye,Dye,lofiObj3,0x19,0x1117
+Dark Gray Clothing Dye,Dye,lofiObj3,0x10,0x1018
+Dark Gray Accessory Dye,Dye,lofiObj3,0x19,0x1118
+Dark Green Clothing Dye,Dye,lofiObj3,0x10,0x1019
+Dark Green Accessory Dye,Dye,lofiObj3,0x19,0x1119
+Dark Khaki Clothing Dye,Dye,lofiObj3,0x10,0x101a
+Dark Khaki Accessory Dye,Dye,lofiObj3,0x19,0x111a
+Dark Magenta Clothing Dye,Dye,lofiObj3,0x10,0x101b
+Dark Magenta Accessory Dye,Dye,lofiObj3,0x19,0x111b
+Dark Olive Green Clothing Dye,Dye,lofiObj3,0x10,0x101c
+Dark Olive Green Accessory Dye,Dye,lofiObj3,0x19,0x111c
+Dark Orange Clothing Dye,Dye,lofiObj3,0x10,0x101d
+Dark Orange Accessory Dye,Dye,lofiObj3,0x19,0x111d
+Dark Orchid Clothing Dye,Dye,lofiObj3,0x10,0x101e
+Dark Orchid Accessory Dye,Dye,lofiObj3,0x19,0x111e
+Dark Red Clothing Dye,Dye,lofiObj3,0x10,0x101f
+Dark Red Accessory Dye,Dye,lofiObj3,0x19,0x111f
+Dark Salmon Clothing Dye,Dye,lofiObj3,0x10,0x1020
+Dark Salmon Accessory Dye,Dye,lofiObj3,0x19,0x1120
+Dark Sea Green Clothing Dye,Dye,lofiObj3,0x10,0x1021
+Dark Sea Green Accessory Dye,Dye,lofiObj3,0x19,0x1121
+Dark Slate Blue Clothing Dye,Dye,lofiObj3,0x10,0x1022
+Dark Slate Blue Accessory Dye,Dye,lofiObj3,0x19,0x1122
+Dark Slate Gray Clothing Dye,Dye,lofiObj3,0x10,0x1023
+Dark Slate Gray Accessory Dye,Dye,lofiObj3,0x19,0x1123
+Dark Turquoise Clothing Dye,Dye,lofiObj3,0x10,0x1024
+Dark Turquoise Accessory Dye,Dye,lofiObj3,0x19,0x1124
+Dark Violet Clothing Dye,Dye,lofiObj3,0x10,0x1025
+Dark Violet Accessory Dye,Dye,lofiObj3,0x19,0x1125
+Deep Pink Clothing Dye,Dye,lofiObj3,0x10,0x1026
+Deep Pink Accessory Dye,Dye,lofiObj3,0x19,0x1126
+Deep Sky Blue Clothing Dye,Dye,lofiObj3,0x10,0x1027
+Deep Sky Blue Accessory Dye,Dye,lofiObj3,0x19,0x1127
+Dim Gray Clothing Dye,Dye,lofiObj3,0x10,0x1028
+Dim Gray Accessory Dye,Dye,lofiObj3,0x19,0x1128
+Dodger Blue Clothing Dye,Dye,lofiObj3,0x10,0x1029
+Dodger Blue Accessory Dye,Dye,lofiObj3,0x19,0x1129
+Fire Brick Clothing Dye,Dye,lofiObj3,0x10,0x102a
+Fire Brick Accessory Dye,Dye,lofiObj3,0x19,0x112a
+Floral White Clothing Dye,Dye,lofiObj3,0x10,0x102b
+Floral White Accessory Dye,Dye,lofiObj3,0x19,0x112b
+Forest Green Clothing Dye,Dye,lofiObj3,0x10,0x102c
+Forest Green Accessory Dye,Dye,lofiObj3,0x19,0x112c
+Fuchsia Clothing Dye,Dye,lofiObj3,0x10,0x102d
+Fuchsia Accessory Dye,Dye,lofiObj3,0x19,0x112d
+Gainsboro Clothing Dye,Dye,lofiObj3,0x10,0x102e
+Gainsboro Accessory Dye,Dye,lofiObj3,0x19,0x112e
+Ghost White Clothing Dye,Dye,lofiObj3,0x10,0x102f
+Ghost White Accessory Dye,Dye,lofiObj3,0x19,0x112f
+Gold Clothing Dye,Dye,lofiObj3,0x10,0x1030
+Gold Accessory Dye,Dye,lofiObj3,0x19,0x1130
+Golden Rod Clothing Dye,Dye,lofiObj3,0x10,0x1031
+Golden Rod Accessory Dye,Dye,lofiObj3,0x19,0x1131
+Gray Clothing Dye,Dye,lofiObj3,0x10,0x1032
+Gray Accessory Dye,Dye,lofiObj3,0x19,0x1132
+Green Clothing Dye,Dye,lofiObj3,0x10,0x1033
+Green Accessory Dye,Dye,lofiObj3,0x19,0x1133
+Green Yellow Clothing Dye,Dye,lofiObj3,0x10,0x1034
+Green Yellow Accessory Dye,Dye,lofiObj3,0x19,0x1134
+Honey Dew Clothing Dye,Dye,lofiObj3,0x10,0x1035
+Honey Dew Accessory Dye,Dye,lofiObj3,0x19,0x1135
+Hot Pink Clothing Dye,Dye,lofiObj3,0x10,0x1036
+Hot Pink Accessory Dye,Dye,lofiObj3,0x19,0x1136
+Indian Red Clothing Dye,Dye,lofiObj3,0x10,0x1037
+Indian Red Accessory Dye,Dye,lofiObj3,0x19,0x1137
+Indigo Clothing Dye,Dye,lofiObj3,0x10,0x1038
+Indigo Accessory Dye,Dye,lofiObj3,0x19,0x1138
+Ivory Clothing Dye,Dye,lofiObj3,0x10,0x1039
+Ivory Accessory Dye,Dye,lofiObj3,0x19,0x1139
+Khaki Clothing Dye,Dye,lofiObj3,0x10,0x103a
+Khaki Accessory Dye,Dye,lofiObj3,0x19,0x113a
+Lavender Clothing Dye,Dye,lofiObj3,0x10,0x103b
+Lavender Accessory Dye,Dye,lofiObj3,0x19,0x113b
+Lavender Blush Clothing Dye,Dye,lofiObj3,0x10,0x103c
+Lavender Blush Accessory Dye,Dye,lofiObj3,0x19,0x113c
+Lawn Green Clothing Dye,Dye,lofiObj3,0x10,0x103d
+Lawn Green Accessory Dye,Dye,lofiObj3,0x19,0x113d
+Lemon Chiffon Clothing Dye,Dye,lofiObj3,0x10,0x103e
+Lemon Chiffon Accessory Dye,Dye,lofiObj3,0x19,0x113e
+Light Blue Clothing Dye,Dye,lofiObj3,0x10,0x103f
+Light Blue Accessory Dye,Dye,lofiObj3,0x19,0x113f
+Light Coral Clothing Dye,Dye,lofiObj3,0x10,0x1040
+Light Coral Accessory Dye,Dye,lofiObj3,0x19,0x1140
+Light Cyan Clothing Dye,Dye,lofiObj3,0x10,0x1041
+Light Cyan Accessory Dye,Dye,lofiObj3,0x19,0x1141
+Light Golden Rod Yellow Clothing Dye,Dye,lofiObj3,0x10,0x1042
+Light Golden Rod Yellow Accessory Dye,Dye,lofiObj3,0x19,0x1142
+Light Grey Clothing Dye,Dye,lofiObj3,0x10,0x1043
+Light Grey Accessory Dye,Dye,lofiObj3,0x19,0x1143
+Light Green Clothing Dye,Dye,lofiObj3,0x10,0x1044
+Light Green Accessory Dye,Dye,lofiObj3,0x19,0x1144
+Light Pink Clothing Dye,Dye,lofiObj3,0x10,0x1045
+Light Pink Accessory Dye,Dye,lofiObj3,0x19,0x1145
+Light Salmon Clothing Dye,Dye,lofiObj3,0x10,0x1046
+Light Salmon Accessory Dye,Dye,lofiObj3,0x19,0x1146
+Light Sea Green Clothing Dye,Dye,lofiObj3,0x10,0x1047
+Light Sea Green Accessory Dye,Dye,lofiObj3,0x19,0x1147
+Light Sky Blue Clothing Dye,Dye,lofiObj3,0x10,0x1048
+Light Sky Blue Accessory Dye,Dye,lofiObj3,0x19,0x1148
+Light Slate Gray Clothing Dye,Dye,lofiObj3,0x10,0x1049
+Light Slate Gray Accessory Dye,Dye,lofiObj3,0x19,0x1149
+Light Steel Blue Clothing Dye,Dye,lofiObj3,0x10,0x104a
+Light Steel Blue Accessory Dye,Dye,lofiObj3,0x19,0x114a
+Light Yellow Clothing Dye,Dye,lofiObj3,0x10,0x104b
+Light Yellow Accessory Dye,Dye,lofiObj3,0x19,0x114b
+Lime Clothing Dye,Dye,lofiObj3,0x10,0x104c
+Lime Accessory Dye,Dye,lofiObj3,0x19,0x114c
+Lime Green Clothing Dye,Dye,lofiObj3,0x10,0x104d
+Lime Green Accessory Dye,Dye,lofiObj3,0x19,0x114d
+Linen Clothing Dye,Dye,lofiObj3,0x10,0x104e
+Linen Accessory Dye,Dye,lofiObj3,0x19,0x114e
+Magenta Clothing Dye,Dye,lofiObj3,0x10,0x104f
+Magenta Accessory Dye,Dye,lofiObj3,0x19,0x114f
+Maroon Clothing Dye,Dye,lofiObj3,0x10,0x1050
+Maroon Accessory Dye,Dye,lofiObj3,0x19,0x1150
+Medium Aqua Marine Clothing Dye,Dye,lofiObj3,0x10,0x1051
+Medium Aqua Marine Accessory Dye,Dye,lofiObj3,0x19,0x1151
+Medium Blue Clothing Dye,Dye,lofiObj3,0x10,0x1052
+Medium Blue Accessory Dye,Dye,lofiObj3,0x19,0x1152
+Medium Orchid Clothing Dye,Dye,lofiObj3,0x10,0x1053
+Medium Orchid Accessory Dye,Dye,lofiObj3,0x19,0x1153
+Medium Purple Clothing Dye,Dye,lofiObj3,0x10,0x1054
+Medium Purple Accessory Dye,Dye,lofiObj3,0x19,0x1154
+Medium Sea Green Clothing Dye,Dye,lofiObj3,0x10,0x1055
+Medium Sea Green Accessory Dye,Dye,lofiObj3,0x19,0x1155
+Medium Slate Blue Clothing Dye,Dye,lofiObj3,0x10,0x1056
+Medium Slate Blue Accessory Dye,Dye,lofiObj3,0x19,0x1156
+Medium Spring Green Clothing Dye,Dye,lofiObj3,0x10,0x1057
+Medium Spring Green Accessory Dye,Dye,lofiObj3,0x19,0x1157
+Medium Turquoise Clothing Dye,Dye,lofiObj3,0x10,0x1058
+Medium Turquoise Accessory Dye,Dye,lofiObj3,0x19,0x1158
+Medium Violet Red Clothing Dye,Dye,lofiObj3,0x10,0x1059
+Medium Violet Red Accessory Dye,Dye,lofiObj3,0x19,0x1159
+Midnight Blue Clothing Dye,Dye,lofiObj3,0x10,0x105a
+Midnight Blue Accessory Dye,Dye,lofiObj3,0x19,0x115a
+Mint Cream Clothing Dye,Dye,lofiObj3,0x10,0x105b
+Mint Cream Accessory Dye,Dye,lofiObj3,0x19,0x115b
+Misty Rose Clothing Dye,Dye,lofiObj3,0x10,0x105c
+Misty Rose Accessory Dye,Dye,lofiObj3,0x19,0x115c
+Moccasin Clothing Dye,Dye,lofiObj3,0x10,0x105d
+Moccasin Accessory Dye,Dye,lofiObj3,0x19,0x115d
+Navajo White Clothing Dye,Dye,lofiObj3,0x10,0x105e
+Navajo White Accessory Dye,Dye,lofiObj3,0x19,0x115e
+Navy Clothing Dye,Dye,lofiObj3,0x10,0x105f
+Navy Accessory Dye,Dye,lofiObj3,0x19,0x115f
+Old Lace Clothing Dye,Dye,lofiObj3,0x10,0x1060
+Old Lace Accessory Dye,Dye,lofiObj3,0x19,0x1160
+Olive Clothing Dye,Dye,lofiObj3,0x10,0x1061
+Olive Accessory Dye,Dye,lofiObj3,0x19,0x1161
+Olive Drab Clothing Dye,Dye,lofiObj3,0x10,0x1062
+Olive Drab Accessory Dye,Dye,lofiObj3,0x19,0x1162
+Orange Clothing Dye,Dye,lofiObj3,0x10,0x1063
+Orange Accessory Dye,Dye,lofiObj3,0x19,0x1163
+Orange Red Clothing Dye,Dye,lofiObj3,0x10,0x1064
+Orange Red Accessory Dye,Dye,lofiObj3,0x19,0x1164
+Orchid Clothing Dye,Dye,lofiObj3,0x10,0x1065
+Orchid Accessory Dye,Dye,lofiObj3,0x19,0x1165
+Pale Golden Rod Clothing Dye,Dye,lofiObj3,0x10,0x1066
+Pale Golden Rod Accessory Dye,Dye,lofiObj3,0x19,0x1166
+Pale Green Clothing Dye,Dye,lofiObj3,0x10,0x1067
+Pale Green Accessory Dye,Dye,lofiObj3,0x19,0x1167
+Pale Turquoise Clothing Dye,Dye,lofiObj3,0x10,0x1068
+Pale Turquoise Accessory Dye,Dye,lofiObj3,0x19,0x1168
+Pale Violet Red Clothing Dye,Dye,lofiObj3,0x10,0x1069
+Pale Violet Red Accessory Dye,Dye,lofiObj3,0x19,0x1169
+Papaya Whip Clothing Dye,Dye,lofiObj3,0x10,0x106a
+Papaya Whip Accessory Dye,Dye,lofiObj3,0x19,0x116a
+Peach Puff Clothing Dye,Dye,lofiObj3,0x10,0x106b
+Peach Puff Accessory Dye,Dye,lofiObj3,0x19,0x116b
+Peru Clothing Dye,Dye,lofiObj3,0x10,0x106c
+Peru Accessory Dye,Dye,lofiObj3,0x19,0x116c
+Pink Clothing Dye,Dye,lofiObj3,0x10,0x106d
+Pink Accessory Dye,Dye,lofiObj3,0x19,0x116d
+Plum Clothing Dye,Dye,lofiObj3,0x10,0x106e
+Plum Accessory Dye,Dye,lofiObj3,0x19,0x116e
+Powder Blue Clothing Dye,Dye,lofiObj3,0x10,0x106f
+Powder Blue Accessory Dye,Dye,lofiObj3,0x19,0x116f
+Purple Clothing Dye,Dye,lofiObj3,0x10,0x1070
+Purple Accessory Dye,Dye,lofiObj3,0x19,0x1170
+Red Clothing Dye,Dye,lofiObj3,0x10,0x1071
+Red Accessory Dye,Dye,lofiObj3,0x19,0x1171
+Rosy Brown Clothing Dye,Dye,lofiObj3,0x10,0x1072
+Rosy Brown Accessory Dye,Dye,lofiObj3,0x19,0x1172
+Royal Blue Clothing Dye,Dye,lofiObj3,0x10,0x1073
+Royal Blue Accessory Dye,Dye,lofiObj3,0x19,0x1173
+Saddle Brown Clothing Dye,Dye,lofiObj3,0x10,0x1074
+Saddle Brown Accessory Dye,Dye,lofiObj3,0x19,0x1174
+Salmon Clothing Dye,Dye,lofiObj3,0x10,0x1075
+Salmon Accessory Dye,Dye,lofiObj3,0x19,0x1175
+Sandy Brown Clothing Dye,Dye,lofiObj3,0x10,0x1076
+Sandy Brown Accessory Dye,Dye,lofiObj3,0x19,0x1176
+Sea Green Clothing Dye,Dye,lofiObj3,0x10,0x1077
+Sea Green Accessory Dye,Dye,lofiObj3,0x19,0x1177
+Sea Shell Clothing Dye,Dye,lofiObj3,0x10,0x1078
+Sea Shell Accessory Dye,Dye,lofiObj3,0x19,0x1178
+Sienna Clothing Dye,Dye,lofiObj3,0x10,0x1079
+Sienna Accessory Dye,Dye,lofiObj3,0x19,0x1179
+Silver Clothing Dye,Dye,lofiObj3,0x10,0x107a
+Silver Accessory Dye,Dye,lofiObj3,0x19,0x117a
+Sky Blue Clothing Dye,Dye,lofiObj3,0x10,0x107b
+Sky Blue Accessory Dye,Dye,lofiObj3,0x19,0x117b
+Slate Blue Clothing Dye,Dye,lofiObj3,0x10,0x107c
+Slate Blue Accessory Dye,Dye,lofiObj3,0x19,0x117c
+Slate Gray Clothing Dye,Dye,lofiObj3,0x10,0x107d
+Slate Gray Accessory Dye,Dye,lofiObj3,0x19,0x117d
+Snow Clothing Dye,Dye,lofiObj3,0x10,0x107e
+Snow Accessory Dye,Dye,lofiObj3,0x19,0x117e
+Spring Green Clothing Dye,Dye,lofiObj3,0x10,0x107f
+Spring Green Accessory Dye,Dye,lofiObj3,0x19,0x117f
+Steel Blue Clothing Dye,Dye,lofiObj3,0x10,0x1080
+Steel Blue Accessory Dye,Dye,lofiObj3,0x19,0x1180
+Tan Clothing Dye,Dye,lofiObj3,0x10,0x1081
+Tan Accessory Dye,Dye,lofiObj3,0x19,0x1181
+Teal Clothing Dye,Dye,lofiObj3,0x10,0x1082
+Teal Accessory Dye,Dye,lofiObj3,0x19,0x1182
+Thistle Clothing Dye,Dye,lofiObj3,0x10,0x1083
+Thistle Accessory Dye,Dye,lofiObj3,0x19,0x1183
+Tomato Clothing Dye,Dye,lofiObj3,0x10,0x1084
+Tomato Accessory Dye,Dye,lofiObj3,0x19,0x1184
+Turquoise Clothing Dye,Dye,lofiObj3,0x10,0x1085
+Turquoise Accessory Dye,Dye,lofiObj3,0x19,0x1185
+Violet Clothing Dye,Dye,lofiObj3,0x10,0x1086
+Violet Accessory Dye,Dye,lofiObj3,0x19,0x1186
+Wheat Clothing Dye,Dye,lofiObj3,0x10,0x1087
+Wheat Accessory Dye,Dye,lofiObj3,0x19,0x1187
+White Clothing Dye,Dye,lofiObj3,0x10,0x1088
+White Accessory Dye,Dye,lofiObj3,0x19,0x1188
+White Smoke Clothing Dye,Dye,lofiObj3,0x10,0x1089
+White Smoke Accessory Dye,Dye,lofiObj3,0x19,0x1189
+Yellow Clothing Dye,Dye,lofiObj3,0x10,0x108a
+Yellow Accessory Dye,Dye,lofiObj3,0x19,0x118a
+Yellow Green Clothing Dye,Dye,lofiObj3,0x10,0x108b
+Yellow Green Accessory Dye,Dye,lofiObj3,0x19,0x118b
+St Patrick's Green Clothing Dye,Dye,lofiObj3,0x10,0x108c
+St Patrick's Green Accessory Dye,Dye,lofiObj3,0x19,0x118c
+Short Sword,Equipment,lofiObj5,0x30,0xa00
+Broad Sword,Equipment,lofiObj5,0x31,0xa6c
+Saber,Equipment,lofiObj5,0x32,0xa6d
+Long Sword,Equipment,lofiObj5,0x33,0xa01
+Falchion,Equipment,lofiObj5,0x34,0xa6e
+Fire Sword,Equipment,lofiObj5,0x35,0xa3b
+Glass Sword,Equipment,lofiObj5,0x36,0xa3c
+Golden Sword,Equipment,lofiObj5,0x37,0xa02
+Ravenheart Sword,Equipment,lofiObj5,0x38,0xa82
+Dragonsoul Sword,Equipment,lofiObj5,0x39,0xa83
+Archon Sword,Equipment,lofiObj5,0x3a,0xa84
+Skysplitter Sword,Equipment,lofiObj5,0x3b,0xa47
+Sword of Acclaim,Equipment,lofiObj5new,0x3c,0xb0b
+Sword of Splendor,Equipment,lofiObj5new,0x3d,0x9c8
+Sword of Majesty,Equipment,lofiObj5,0x3e,0x9c9
+Crystal Sword,Equipment,lofiObj2,0x68,0xa03
+Demon Blade,Equipment,lofiObj2,0x69,0xc01
+Ancient Stone Sword,Equipment,lofiObj2,0x6d,0xc05
+Fire Wand,Equipment,lofiObj5,0x40,0xa04
+Force Wand,Equipment,lofiObj5,0x41,0xa6f
+Power Wand,Equipment,lofiObj5,0x42,0xa70
+Missile Wand,Equipment,lofiObj5,0x43,0xa05
+Eldritch Wand,Equipment,lofiObj5,0x44,0xa71
+Hell's Fire Wand,Equipment,lofiObj5,0x45,0xa06
+Wand of Dark Magic,Equipment,lofiObj5,0x46,0xa3d
+Wand of Arcane Flame,Equipment,lofiObj5,0x47,0xae0
+Sprite Wand,Equipment,lofiObj2,0x61,0xa4b
+Wand of Death,Equipment,lofiObj5,0x48,0xa07
+Wand of Deep Sorcery,Equipment,lofiObj5,0x49,0xa85
+Wand of Shadow,Equipment,lofiObj5,0x4a,0xa86
+Wand of Ancient Warning,Equipment,lofiObj5,0x4b,0xa87
+Wand of Recompense,Equipment,lofiObj5new,0x4c,0xaf6
+Wand of Evocation,Equipment,lofiObj5new,0x4d,0x9ca
+Wand of Retribution,Equipment,lofiObj5,0x4e,0x9c0
+Crystal Wand,Equipment,lofiObj2,0x63,0xb3f
+Wand of the Bulwark,Equipment,lofiObj2,0x6c,0xc04
+Wooden Shield,Equipment,lofiObj6,0x70,0xa08
+Iron Shield,Equipment,lofiObj6,0x71,0xa09
+Steel Shield,Equipment,lofiObj6,0x72,0xa0a
+Reinforced Shield,Equipment,lofiObj6,0x73,0xacf
+Golden Shield,Equipment,lofiObj6,0x74,0xa0b
+Mithril Shield,Equipment,lofiObj6,0x75,0xa0c
+Colossus Shield,Equipment,lofiObj6,0x76,0xb22
+Snake Skin Shield,Equipment,lofiObj2,0x03,0xa40
+Shield of Ogmur,Equipment,lofiObj2,0x56,0xc0f
+Wolfskin Armor,Equipment,lofiObj5,0x00,0xa78
+Leather Armor,Equipment,lofiObj5,0x01,0xa0d
+Basilisk Hide Armor,Equipment,lofiObj5,0x02,0xa79
+Minotaur Hide Armor,Equipment,lofiObj5,0x03,0xa7a
+Bearskin Armor,Equipment,lofiObj5,0x04,0xad0
+Chimera Hide Armor,Equipment,lofiObj5,0x05,0xad1
+Wyvern Skin Armor,Equipment,lofiObj5,0x06,0xad2
+Studded Leather Armor,Equipment,lofiObj5,0x07,0xa0e
+Snake Skin Armor,Equipment,lofiObj2,0x00,0xa3e
+Drake Hide Armor,Equipment,lofiObj5,0x08,0xad3
+Roc Leather Armor,Equipment,lofiObj5,0x09,0xa8e
+Hippogriff Hide Armor,Equipment,lofiObj5,0x0a,0xa8f
+Griffon Hide Armor,Equipment,lofiObj5,0x0b,0xa90
+Hydra Skin Armor,Equipment,lofiObj5new,0x0c,0xaf9
+Wyrmhide Armor,Equipment,lofiObj5new,0x0d,0x9c1
+Leviathan Armor,Equipment,lofiObj5,0x0e,0x9c3
+Iron Mail,Equipment,lofiObj5,0x20,0xa7b
+Chainmail,Equipment,lofiObj5,0x21,0xa0f
+Blue Steel Mail,Equipment,lofiObj5,0x22,0xa7c
+Silver Chainmail,Equipment,lofiObj5,0x23,0xa7d
+Golden Chainmail,Equipment,lofiObj5,0x24,0xa10
+Plate Mail,Equipment,lofiObj5,0x25,0xa11
+Mithril Chainmail,Equipment,lofiObj5,0x26,0xadf
+Mithril Armor,Equipment,lofiObj5,0x27,0xa12
+Dragonscale Armor,Equipment,lofiObj5,0x28,0xa13
+Desolation Armor,Equipment,lofiObj5,0x29,0xa91
+Vengeance Armor,Equipment,lofiObj5,0x2a,0xa92
+Abyssal Armor,Equipment,lofiObj5,0x2b,0xa93
+Acropolis Armor,Equipment,lofiObj5new,0x2c,0xafc
+Dominion Armor,Equipment,lofiObj5new,0x2d,0x9c4
+Annihilation Armor,Equipment,lofiObj5,0x2e,0x9c5
+Steel Dagger,Equipment,lofiObj5,0x60,0xa14
+Dirk,Equipment,lofiObj5,0x61,0xa15
+Blue Steel Dagger,Equipment,lofiObj5,0x62,0xa72
+Dusky Rose Dagger,Equipment,lofiObj5,0x63,0xa73
+Silver Dagger,Equipment,lofiObj5,0x64,0xa74
+Golden Dagger,Equipment,lofiObj5,0x65,0xa16
+Obsidian Dagger,Equipment,lofiObj5,0x66,0xa17
+Poison Fang Dagger,Equipment,lofiObj2,0x22,0x709
+Mithril Dagger,Equipment,lofiObj5,0x67,0xa18
+Fire Dagger,Equipment,lofiObj5,0x68,0xa19
+Ragetalon Dagger,Equipment,lofiObj5,0x69,0xa88
+Emeraldshard Dagger,Equipment,lofiObj5,0x6a,0xa89
+Agateclaw Dagger,Equipment,lofiObj5,0x6b,0xa8a
+Dagger of Foul Malevolence,Equipment,lofiObj5new,0x6c,0xaff
+Dagger of Sinister Deeds,Equipment,lofiObj5new,0x6d,0x9c6
+Dagger of Dire Hatred,Equipment,lofiObj5,0x6e,0x9c7
+Dirk of Cronus,Equipment,lofiObj2,0x54,0xc0a
+Shortbow,Equipment,lofiObj5,0x50,0xa1a
+Reinforced Bow,Equipment,lofiObj5,0x51,0xa75
+Crossbow,Equipment,lofiObj5,0x52,0xa1b
+Greywood Bow,Equipment,lofiObj5,0x53,0xa76
+Ironwood Bow,Equipment,lofiObj5,0x54,0xa77
+Fire Bow,Equipment,lofiObj5,0x55,0xa1c
+Double Bow,Equipment,lofiObj5,0x56,0xa1d
+Heavy Crossbow,Equipment,lofiObj5,0x57,0xa3a
+Golden Bow,Equipment,lofiObj5,0x58,0xa1e
+Verdant Bow,Equipment,lofiObj5,0x59,0xa8b
+Bow of Fey Magic,Equipment,lofiObj5,0x5a,0xa8c
+Bow of Innocent Blood,Equipment,lofiObj5,0x5b,0xa8d
+Bow of Covert Havens,Equipment,lofiObj5new,0x5c,0xb02
+Bow of Mystical Energy,Equipment,lofiObj5new,0x5d,0x9cc
+Bow of Deep Enchantment,Equipment,lofiObj5,0x5e,0x9cd
+Doom Bow,Equipment,lofiObj2,0x6a,0xc02
+Coral Bow,Equipment,lofiObj2,0x04,0xc10
+Potion of Attack,Equipment,d3LofiObjEmbed,0x102,0xa1f
+Potion of Defense,Equipment,d3LofiObjEmbed,0x103,0xa20
+Potion of Speed,Equipment,d3LofiObjEmbed,0x104,0xa21
+Potion of Vitality,Equipment,d3LofiObjEmbed,0x106,0xa34
+Potion of Wisdom,Equipment,d3LofiObjEmbed,0x107,0xa35
+Potion of Dexterity,Equipment,d3LofiObjEmbed,0x105,0xa4c
+Potion of Life,Equipment,d3LofiObjEmbed,0x100,0xae9
+Potion of Mana,Equipment,d3LofiObjEmbed,0x101,0xaea
+Minor Health Potion,Equipment,lofiObj2,0xf6,0xab0
+Minor Magic Potion,Equipment,lofiObj2,0xf7,0xadd
+Fire Water,Equipment,lofiObj2,0x2b,0xb34
+Cream Spirit,Equipment,lofiObj2,0x2c,0xb35
+Chardonnay,Equipment,lofiObj2,0x2d,0xb36
+Melon Liqueur,Equipment,lofiObj2,0x2e,0xb37
+Cabernet,Equipment,lofiObj2,0x2f,0xb38
+Vintage Port,Equipment,lofiObj2,0x3b,0xb39
+Sauvignon Blanc,Equipment,lofiObj2,0x3c,0xb3a
+Muscat,Equipment,lofiObj2,0x3d,0xb3b
+Rice Wine,Equipment,lofiObj2,0x3e,0xb3c
+Shiraz,Equipment,lofiObj2,0x3f,0xb3d
+Snake Eye Ring,Equipment,lofiObj2,0x02,0xa41
+Spider's Eye Ring,Equipment,lofiObj2,0x21,0x708
+Ring of Minor Defense,Equipment,lofiObj,0x2c,0xa4f
+Ring of Attack,Equipment,lofiObj5,0x80,0xa24
+Ring of Defense,Equipment,lofiObj5,0x81,0xa25
+Ring of Speed,Equipment,lofiObj5,0x82,0xa26
+Ring of Vitality,Equipment,lofiObj5,0x83,0xa36
+Ring of Wisdom,Equipment,lofiObj5,0x84,0xa37
+Ring of Dexterity,Equipment,lofiObj5,0x85,0xa4d
+Ring of Health,Equipment,lofiObj5,0x86,0xa27
+Ring of Magic,Equipment,lofiObj5,0x87,0xa28
+Ring of Greater Attack,Equipment,lofiObj5,0x90,0xa29
+Ring of Greater Defense,Equipment,lofiObj5,0x91,0xa2a
+Ring of Greater Speed,Equipment,lofiObj5,0x92,0xa2b
+Ring of Greater Vitality,Equipment,lofiObj5,0x93,0xa38
+Ring of Greater Wisdom,Equipment,lofiObj5,0x94,0xa39
+Ring of Greater Dexterity,Equipment,lofiObj5,0x95,0xa4e
+Ring of Greater Health,Equipment,lofiObj5,0x96,0xa2c
+Ring of Greater Magic,Equipment,lofiObj5,0x97,0xa2d
+Ring of Superior Attack,Equipment,lofiObj5,0xa0,0xab7
+Ring of Superior Defense,Equipment,lofiObj5,0xa1,0xab8
+Ring of Superior Speed,Equipment,lofiObj5,0xa2,0xab9
+Ring of Superior Vitality,Equipment,lofiObj5,0xa3,0xaba
+Ring of Superior Wisdom,Equipment,lofiObj5,0xa4,0xabb
+Ring of Superior Dexterity,Equipment,lofiObj5,0xa5,0xabc
+Ring of Superior Health,Equipment,lofiObj5,0xa6,0xabd
+Ring of Superior Magic,Equipment,lofiObj5,0xa7,0xabe
+Ring of Paramount Attack,Equipment,lofiObj5,0xb0,0xabf
+Ring of Paramount Defense,Equipment,lofiObj5,0xb1,0xac0
+Ring of Paramount Speed,Equipment,lofiObj5,0xb2,0xac1
+Ring of Paramount Vitality,Equipment,lofiObj5,0xb3,0xac2
+Ring of Paramount Wisdom,Equipment,lofiObj5,0xb4,0xac3
+Ring of Paramount Dexterity,Equipment,lofiObj5,0xb5,0xac4
+Ring of Paramount Health,Equipment,lofiObj5,0xb6,0xac5
+Ring of Paramount Magic,Equipment,lofiObj5,0xb7,0xac6
+Ring of Exalted Attack,Equipment,lofiObj5,0xc0,0xac7
+Ring of Exalted Defense,Equipment,lofiObj5,0xc1,0xac8
+Ring of Exalted Speed,Equipment,lofiObj5,0xc2,0xac9
+Ring of Exalted Vitality,Equipment,lofiObj5,0xc3,0xaca
+Ring of Exalted Wisdom,Equipment,lofiObj5,0xc4,0xacb
+Ring of Exalted Dexterity,Equipment,lofiObj5,0xc5,0xacc
+Ring of Exalted Health,Equipment,lofiObj5,0xc6,0xacd
+Ring of Exalted Magic,Equipment,lofiObj5,0xc7,0xace
+Ring of Unbound Attack,Equipment,lofiObj3,0x488,0xba3
+Ring of Unbound Defense,Equipment,lofiObj3,0x489,0xba4
+Ring of Unbound Speed,Equipment,lofiObj3,0x48a,0xba5
+Ring of Unbound Vitality,Equipment,lofiObj3,0x48b,0xba6
+Ring of Unbound Wisdom,Equipment,lofiObj3,0x48c,0xba7
+Ring of Unbound Dexterity,Equipment,lofiObj3,0x48d,0xba8
+Ring of Unbound Health,Equipment,lofiObj3,0x48e,0xba9
+Ring of Decades,Equipment,lofiObj3,0x564,0xbae
+Ring of Unbound Magic,Equipment,lofiObj3,0x48f,0xbaa
+The Forgotten Crown,Equipment,lofiObj3,0x480,0xbab
+The Twilight Gemstone,Equipment,lofiObj3,0x481,0xbac
+Bracer of the Guardian,Equipment,lofiObj3,0x482,0xbad
+Ring of the Sphinx,Equipment,lofiObj4,0xa0,0xba0
+Ring of the Nile,Equipment,lofiObj4,0xa1,0xba1
+Ring of the Pyramid,Equipment,lofiObj4,0xa2,0xba2
+Enchanted Ice Shard,Equipment,d3LofiObjEmbed,0x6a,0x7fd2
+Ring of the Northern Light,Equipment,d3LofiObjEmbed,0x6b,0x7fd3
+Frimarra,Equipment,d3LofiObjEmbed,0x6c,0x7fd4
+Fire Spray Spell,Equipment,lofiObj6,0x40,0xa2e
+Flame Burst Spell,Equipment,lofiObj6,0x41,0xad4
+Fire Nova Spell,Equipment,lofiObj6,0x42,0xa2f
+Scorching Blast Spell,Equipment,lofiObj6,0x43,0xad5
+Destruction Sphere Spell,Equipment,lofiObj6,0x44,0xad6
+Magic Nova Spell,Equipment,lofiObj6,0x45,0xa30
+Elemental Detonation Spell,Equipment,lofiObj6,0x46,0xb24
+Penetrating Blast Spell,Equipment,lofiObj2,0x57,0x9ce
+Healing Tome,Equipment,lofiObj6,0x50,0xa31
+Remedy Tome,Equipment,lofiObj6,0x51,0xad7
+Spirit Salve Tome,Equipment,lofiObj6,0x52,0xa32
+Tome of Rejuvenation,Equipment,lofiObj6,0x53,0xad8
+Tome of Renewing,Equipment,lofiObj6,0x54,0xa33
+Tome of Divine Favor,Equipment,lofiObj6,0x55,0xa5b
+Tome of Holy Guidance,Equipment,lofiObj6,0x56,0xb25
+Pirate Rum,Equipment,lofiObj2,0x11,0xa50
+Magic Mushroom,Equipment,lofiObj2,0x12,0xa51
+Seal of the Initiate,Equipment,lofiObj6,0xa0,0xa52
+Seal of the Pilgrim,Equipment,lofiObj6,0xa1,0xad9
+Seal of the Seeker,Equipment,lofiObj6,0xa2,0xa53
+Seal of the Aspirant,Equipment,lofiObj6,0xa3,0xada
+Seal of the Divine,Equipment,lofiObj6,0xa4,0xa54
+Seal of the Holy Warrior,Equipment,lofiObj6,0xa5,0xa55
+Seal of the Blessed Champion,Equipment,lofiObj6,0xa6,0xb26
+Seal of Blasphemous Prayer,Equipment,lofiObj2,0x6e,0xc06
+Cloak of Shadows,Equipment,lofiObj6,0x20,0xa56
+Cloak of Darkness,Equipment,lofiObj6,0x21,0xa57
+Cloak of Speed,Equipment,lofiObj6,0x22,0xa58
+Cloak of the Night Thief,Equipment,lofiObj6,0x23,0xadb
+Cloak of the Red Agent,Equipment,lofiObj6,0x24,0xa59
+Cloak of Endless Twilight,Equipment,lofiObj6,0x25,0xae1
+Cloak of Ghostly Concealment,Equipment,lofiObj6,0x26,0xb27
+Cloak of the Planewalker,Equipment,lofiObj3,0x64,0xa5a
+Robe of the Neophyte,Equipment,lofiObj5,0x10,0xa5c
+Robe of the Apprentice,Equipment,lofiObj5,0x11,0xa7e
+Robe of the Acolyte,Equipment,lofiObj5,0x12,0xa5d
+Robe of the Student,Equipment,lofiObj5,0x13,0xa7f
+Robe of the Conjurer,Equipment,lofiObj5,0x14,0xa80
+Robe of the Adept,Equipment,lofiObj5,0x15,0xa5e
+Robe of the Invoker,Equipment,lofiObj5,0x16,0xa5f
+Robe of the Illusionist,Equipment,lofiObj5,0x17,0xadc
+Robe of the Master,Equipment,lofiObj5,0x18,0xa60
+Robe of the Shadow Magus,Equipment,lofiObj5,0x19,0xa94
+Robe of the Moon Wizard,Equipment,lofiObj5,0x1a,0xa95
+Robe of the Elder Warlock,Equipment,lofiObj5,0x1b,0xa96
+Robe of the Grand Sorcerer,Equipment,lofiObj5new,0x1c,0xb05
+Robe of the Star Mother,Equipment,lofiObj5new,0x1d,0x9cf
+Robe of the Ancient Intellect,Equipment,lofiObj5,0x1e,0x9d0
+Magic Quiver,Equipment,lofiObj6,0x30,0xa61
+Reinforced Quiver,Equipment,lofiObj6,0x31,0xa62
+Iron Quiver,Equipment,lofiObj6,0x32,0xa63
+Elvencraft Quiver,Equipment,lofiObj6,0x33,0xade
+Magesteel Quiver,Equipment,lofiObj6,0x34,0xa64
+Golden Quiver,Equipment,lofiObj6,0x35,0xa65
+Quiver of Elvish Mastery,Equipment,lofiObj6,0x36,0xb28
+Quiver of Thunder,Equipment,lofiObj2,0x6f,0xc07
+Combat Helm,Equipment,lofiObj6,0x60,0xa66
+Bronze Helm,Equipment,lofiObj6,0x61,0xa67
+Black Iron Helm,Equipment,lofiObj6,0x62,0xa68
+Red Iron Helm,Equipment,lofiObj6,0x63,0xa69
+Steel Helm,Equipment,lofiObj6,0x64,0xa6a
+Golden Helm,Equipment,lofiObj6,0x65,0xa6b
+Helm of the Great General,Equipment,lofiObj6,0x66,0xb29
+Helm of the Juggernaut,Equipment,lofiObj2,0x52,0xc08
+Energy Staff,Equipment,lofiObj5,0x70,0xa97
+Firebrand Staff,Equipment,lofiObj5,0x71,0xa98
+Comet Staff,Equipment,lofiObj5,0x72,0xa99
+Serpentine Staff,Equipment,lofiObj5,0x73,0xa9a
+Meteor Staff,Equipment,lofiObj5,0x74,0xa9b
+Slayer Staff,Equipment,lofiObj5,0x75,0xa9c
+Avenger Staff,Equipment,lofiObj5,0x76,0xa9d
+Staff of Destruction,Equipment,lofiObj5,0x77,0xa9e
+Staff of Horror,Equipment,lofiObj5,0x78,0xa9f
+Staff of Necrotic Arcana,Equipment,lofiObj5,0x79,0xaa0
+Staff of Diabolic Secrets,Equipment,lofiObj5,0x7a,0xaa1
+Staff of Astral Knowledge,Equipment,lofiObj5,0x7b,0xaa2
+Staff of the Cosmic Whole,Equipment,lofiObj5new,0x7c,0xb08
+Staff of the Vital Unity,Equipment,lofiObj5new,0x7d,0x9d1
+Staff of the Fundamental Core,Equipment,lofiObj5,0x7e,0x910
+Staff of Extreme Prejudice,Equipment,lofiObj2,0x6b,0xc03
+Centipede Poison,Equipment,lofiObj6,0x80,0xaa3
+Spider Venom,Equipment,lofiObj6,0x81,0xaa4
+Pit Viper Poison,Equipment,lofiObj6,0x82,0xaa5
+Stingray Poison,Equipment,lofiObj6,0x83,0xaa6
+Felwasp Toxin,Equipment,lofiObj6,0x84,0xaa7
+Nightwing Venom,Equipment,lofiObj6,0x85,0xaa8
+Baneserpent Poison,Equipment,lofiObj6,0x86,0xb2a
+Necrotic Skull,Equipment,lofiObj6,0x00,0xaaa
+Breathtaker Skull,Equipment,lofiObj6,0x01,0xaab
+Heartstealer Skull,Equipment,lofiObj6,0x02,0xaac
+Soul Siphon Skull,Equipment,lofiObj6,0x03,0xaad
+Essence Tap Skull,Equipment,lofiObj6,0x04,0xaae
+Lifedrinker Skull,Equipment,lofiObj6,0x05,0xaaf
+Bloodsucker Skull,Equipment,lofiObj6,0x06,0xb2b
+Skull of Endless Torment,Equipment,lofiObj2,0x59,0x911
+Hunting Trap,Equipment,lofiObj6,0x10,0xab1
+Wilderlands Trap,Equipment,lofiObj6,0x11,0xab2
+Deepforest Trap,Equipment,lofiObj6,0x12,0xab3
+Savage Trap,Equipment,lofiObj6,0x13,0xab4
+Demonhunter Trap,Equipment,lofiObj6,0x14,0xab5
+Dragonstalker Trap,Equipment,lofiObj6,0x15,0xab6
+Giantcatcher Trap,Equipment,lofiObj6,0x16,0xb2c
+Stasis Orb,Equipment,lofiObj6,0x90,0xae4
+Suspension Orb,Equipment,lofiObj6,0x91,0xa42
+Imprisonment Orb,Equipment,lofiObj6,0x92,0xa43
+Neutralization Orb,Equipment,lofiObj6,0x93,0xa44
+Timelock Orb,Equipment,lofiObj6,0x94,0xa45
+Banishment Orb,Equipment,lofiObj6,0x95,0xa46
+Planefetter Orb,Equipment,lofiObj6,0x96,0xb2d
+Orb of Conflict,Equipment,lofiObj2,0x55,0xc0b
+Decoy Prism,Equipment,lofiObj6,0xb0,0xae3
+Deception Prism,Equipment,lofiObj6,0xb1,0xb1c
+Illusion Prism,Equipment,lofiObj6,0xb2,0xb1d
+Hallucination Prism,Equipment,lofiObj6,0xb3,0xb1e
+Prism of Figments,Equipment,lofiObj6,0xb4,0xb1f
+Prism of Phantoms,Equipment,lofiObj6,0xb5,0xb20
+Prism of Apparitions,Equipment,lofiObj6,0xb6,0xb23
+Prism of Dancing Swords,Equipment,lofiObj2,0x58,0x912
+Chicken Leg of Doom,Equipment,lofiObj,0x1d,0xb21
+Lightning Scepter,Equipment,lofiObj6,0xc0,0xae5
+Discharge Scepter,Equipment,lofiObj6,0xc1,0xb2e
+Thunderclap Scepter,Equipment,lofiObj6,0xc2,0xb2f
+Arcblast Scepter,Equipment,lofiObj6,0xc3,0xb30
+Cloudflash Scepter,Equipment,lofiObj6,0xc4,0xb31
+Scepter of Skybolts,Equipment,lofiObj6,0xc5,0xb32
+Scepter of Storms,Equipment,lofiObj6,0xc6,0xb33
+Amulet of Dispersion,Equipment,d3LofiObjEmbed,0x46,0xb3e
+Coral Juice,Equipment,lofiObj2,0x07,0xc12
+Coral Ring,Equipment,lofiObj2,0x08,0xc13
+Robe of the Tlatoani,Equipment,lofiObj2,0x09,0xc14
+Staff of the Crystal Serpent,Equipment,lofiObj2,0x0a,0xc15
+Cracked Crystal Skull,Equipment,lofiObj2,0x0b,0xc16
+Crystal Bone Ring,Equipment,lofiObj2,0x0c,0xc17
+Coral Silk Armor,Equipment,lofiObj2,0x0d,0xc18
+Pollen Powder,Equipment,lofiObj2,0x19,0xc1a
+Thousand Shot,Equipment,lofiObj2,0x1a,0x9d5
+Coral Venom Trap,Equipment,lofiObj2,0x1b,0xc1c
+Trap of the Vile Spirit,Equipment,d3LofiObjEmbed,0xef,0xb40
+St. Abraham's Wand,Equipment,lofiObj2,0x1c,0xc1d
+Tome of Holy Protection,Equipment,lofiObj2,0x53,0xc1e
+Tome of Purification,Equipment,lofiObj2,0x1d,0xc09
+Chasuble of Holy Light,Equipment,lofiObj2,0x1e,0xc1f
+Ring of Divine Faith,Equipment,lofiObj2,0x1f,0xc20
+Holy Water,Equipment,lofiObj2,0x23,0xc21
+Bone Dagger,Equipment,lofiObj2,0x28,0xc22
+Anatis Staff,Equipment,lofiObj2,0x5d,0xc24
+Ghost Pirate Rum,Equipment,lofiObj3,0xbf,0xc25
+Captain's Ring,Equipment,lofiObj3,0xc7,0xc27
+Spectral Cloth Armor,Equipment,lofiObj3,0xc8,0xc28
+Spirit Dagger,Equipment,lofiObj3,0xc9,0xc29
+Ghostly Prism,Equipment,lofiObj3,0xca,0xc2a
+Small Firecracker,Equipment,lofiObj3,0xcb,0xc2b
+Large Firecracker,Equipment,lofiObj3,0xcc,0xc2c
+America Ring,Equipment,lofiObj3,0xcd,0xc2d
+Scepter of Fulmination,Equipment,lofiObj3,0x1af,0xc30
+Experimental Ring,Equipment,lofiObj3,0x1b0,0xc31
+Robe of the Mad Scientist,Equipment,lofiObj3,0x1b1,0xc32
+Conducting Wand,Equipment,lofiObj3,0x1b2,0xc33
+Sand Pail 5,Equipment,lofiObj3,0x172,0xc34
+Sand Pail 4,Equipment,lofiObj3,0x172,0xc35
+Sand Pail 3,Equipment,lofiObj3,0x172,0xc36
+Sand Pail 2,Equipment,lofiObj3,0x172,0xc37
+Sand Pail 1,Equipment,lofiObj3,0x172,0xc38
+Gold Medal,Equipment,lofiObj3,0x178,0xc3e
+Silver Medal,Equipment,lofiObj3,0x179,0xc3f
+Bronze Medal,Equipment,lofiObj3,0x17a,0xc40
+Rusty Katana,Equipment,lofiObj3,0x21c,0xc44
+Kendo Stick,Equipment,lofiObj3,0x21d,0xc45
+Plain Katana,Equipment,lofiObj3,0x21e,0xc46
+Thunder Katana,Equipment,lofiObj3,0x21f,0xc47
+Line Kutter Katana,Equipment,lofiObj3,0x220,0xc48
+Night Edge,Equipment,lofiObj3,0x221,0xc49
+Sky Edge,Equipment,lofiObj3,0x222,0xc4a
+Buster Katana,Equipment,lofiObj3,0x223,0xc4b
+Demon Edge,Equipment,lofiObj3,0x224,0xc4c
+Jewel Eye Katana,Equipment,lofiObj3,0x225,0xc4d
+Ichimonji,Equipment,lofiObj3,0x226,0xc4e
+Muramasa,Equipment,lofiObj3,0x227,0xc4f
+Masamune,Equipment,lofiObj5new,0x8c,0xc50
+Sadamune,Equipment,lofiObj5new,0x8d,0x024a
+Kusanagi,Equipment,lofiObj5,0x8e,0x024b
+Useless Katana,Equipment,lofiObj3,0x3db,0x914
+Ray Katana,Equipment,lofiObj3,0x22a,0x915
+Basic Star,Equipment,lofiObj3,0x22b,0xc53
+Four-Point Star,Equipment,lofiObj3,0x22c,0xc54
+Spiral Shuriken,Equipment,lofiObj3,0x22d,0xc55
+Silver Star,Equipment,lofiObj3,0x22e,0xc56
+Wind Circle,Equipment,lofiObj3,0x22f,0xc57
+Ice Star,Equipment,lofiObj3,0x230,0xc58
+Doom Circle,Equipment,lofiObj3,0x231,0xc59
+Midnight Star,Equipment,lofiObj3,0x232,0x916
+Candy Ring,Equipment,lofiObj3,0x28a,0xc5f
+Rock Candy,Equipment,lofiObj3,0x28b,0xc60
+Candy-Coated Armor,Equipment,lofiObj3,0x28c,0xc61
+Loot Drop Potion,Equipment,d3LofiObjEmbed,0x131,0xc69
+XP Booster 20 min,Equipment,lofiObj3,0x2df,0xc6b
+Plague Poison,Equipment,lofiObj3,0x314,0xc6d
+Backpack,Equipment,lofiObj3,0x315,0xc6c
+Resurrected Warrior's Armor,Equipment,lofiObj3,0x316,0xc6e
+Golden Ankh,Equipment,lofiObj3,0x340,0xc70
+Eye of Osiris,Equipment,lofiObj3,0x341,0xc71
+Pharaoh's Mask,Equipment,lofiObj3,0x342,0xc72
+Golden Cockle,Equipment,lofiObj3,0x343,0xc73
+Golden Conch,Equipment,lofiObj3,0x344,0xc74
+Golden Horn Conch,Equipment,lofiObj3,0x345,0xc75
+Golden Nut,Equipment,lofiObj3,0x346,0xc76
+Golden Bolt,Equipment,lofiObj3,0x347,0xc77
+Golden Femur,Equipment,lofiObj3,0x348,0xc78
+Golden Ribcage,Equipment,lofiObj3,0x349,0xc79
+Golden Skull,Equipment,lofiObj3,0x34a,0xc7a
+Golden Candelabra,Equipment,lofiObj3,0x34b,0xc7b
+Holy Cross,Equipment,lofiObj3,0x34c,0xc7c
+Pearl Necklace,Equipment,lofiObj2,0xf9,0xc7d
+Golden Chalice,Equipment,lofiObj3,0x34d,0xc7e
+Ruby Gemstone,Equipment,lofiObj3,0x34e,0xc7f
+Old Firecracker,Equipment,lofiObj3,0xcb,0xc81
+Cheater Light Armor,Equipment,lofiObj3,0x3d7,0xc82
+Cheater Robe,Equipment,lofiObj3,0x3d6,0xc83
+Cheater Heavy Armor,Equipment,lofiObj3,0x3d8,0xc84
+Draconis Potion,Equipment,lofiObj2,0x32,0xcc1
+Lucky Clover,Equipment,lofiObj3,0x3d9,0xcc2
+Leaf Dragon Hide Armor,Equipment,lofiObj3,0x3d0,0x7562
+Water Dragon Silk Robe,Equipment,lofiObj3,0x3d1,0x7563
+Fire Dragon Battle Armor,Equipment,lofiObj3,0x3d2,0x7564
+Sullen Blade,Equipment,lofiObj3,0x229,0x7565
+Pirate King's Cutlass,Equipment,lofiObj3,0x403,0xcdb
+Doku No Ken,Equipment,lofiObj3,0x404,0xcdc
+Leaf Bow,Equipment,lofiObj3,0x405,0xcde
+Doctor Swordsworth,Equipment,lofiObj3,0x428,0xcdf
+KoalaPOW,Equipment,lofiObj3,0x429,0xcea
+Spicy Wand of Spice,Equipment,lofiObj3,0x42a,0xceb
+Robobow,Equipment,lofiObj3,0x42b,0xcec
+Sunshine Shiv,Equipment,lofiObj3,0x42c,0xced
+Arbiter's Wrath,Equipment,lofiObj3,0x42d,0xcee
+Tablet of the King's Avatar,Equipment,lofiObj3,0x490,0xb41
+Skull-splitter Sword,Equipment,lofiObj3,0x458,0x221c
+Diamond Bladed Katana,Equipment,lofiObj3,0x4A7,0x228a
+Staff of Adoration,Equipment,lofiObj3,0x4A5,0x228b
+Wand of Budding Romance,Equipment,lofiObj3,0x4A6,0x228c
+Heartfind Dagger,Equipment,lofiObj3,0x4A2,0x228d
+Vinesword,Equipment,lofiObj3,0x4A3,0x228e
+Cupid's Bow,Equipment,lofiObj3,0x4A4,0x228f
+Wand of Egg-cellence,Equipment,lofiObj3,0x4C0,0x2296
+Staff of the Rising Sun,Equipment,lofiObj3,0x4C6,0x2299
+Thousand Suns Spell,Equipment,lofiObj3,0x4C8,0x229e
+Robe of the Summer Solstice,Equipment,lofiObj3,0x4C7,0x229f
+Ring of the Burning Sun,Equipment,lofiObj3,0x4C9,0x2300
+Bow of the Morning Star,Equipment,lofiObj3,0x4CA,0x2301
+Sword of Illumination,Equipment,lofiObj3,0x4CC,0x2303
+Dagger of the Amethyst Prism,Equipment,lofiObj3,0x4CE,0x232a
+Unstable Anomaly,Equipment,lofiObj3,0x4CF,0x2324
+Precisely Calibrated Stringstick,Equipment,lofiObj3,0x4D1,0x2325
+Barely Attuned Magic Thingy,Equipment,lofiObj3,0x4D2,0x2326
+Lethargic Sentience,Equipment,lofiObj3,0x4D0,0x2327
+Toy Knife,Equipment,lofiObj3,0x4D3,0x2328
+Harlequin Armor,Equipment,d3LofiObjEmbed,0x0b,0x7448
+Almandine Armor of Anger,Equipment,d3LofiObjEmbed,0x00,0x2337
+Almandine Ring of Wrath,Equipment,d3LofiObjEmbed,0x01,0x2338
+Onyx Shield of the Mad God,Equipment,d3LofiObjEmbed,0x02,0x2339
+Sword of the Mad God,Equipment,lofiObj3,0x4CD,0x2302
+Wand of Ancient Terror,Equipment,lofiObj3,0x500,0xf10
+Dagger of the Terrible Talon,Equipment,lofiObj3,0x501,0xf11
+Bow of Nightmares,Equipment,lofiObj3,0x502,0xf12
+Staff of Horrific Knowledge,Equipment,lofiObj3,0x503,0xf13
+Corrupted Cleaver,Equipment,lofiObj3,0x504,0xf14
+Staff of Esben,Equipment,lofiObj3,0x550,0x766
+Skullish Remains of Esben,Equipment,lofiObj3,0x551,0x767
+Shendyt of Geb,Equipment,lofiObj3,0x50D,0x235C
+Geb's Ring of Wisdom,Equipment,lofiObj3,0x511,0x235D
+Book of Geb,Equipment,lofiObj3,0x510,0x235E
+Wand of Geb,Equipment,lofiObj3,0x50F,0x235F
+Soulless Robe,Equipment,lofiObj3,0x50C,0x2360
+Ring of the Covetous Heart,Equipment,lofiObj3,0x516,0x2361
+Soul of the Bearer,Equipment,lofiObj3,0x515,0x2362
+The Phylactery,Equipment,lofiObj3,0x514,0x2363
+Fairy Plate,Equipment,lofiObj3,0x50E,0x2364
+Ring of Pure Wishes,Equipment,lofiObj3,0x51B,0x2365
+Seal of the Enchanted Forest,Equipment,lofiObj3,0x51A,0x2366
+Pixie-Enchanted Sword,Equipment,lofiObj3,0x519,0x2367
+Etherite Dagger,Equipment,lofiObj3,0x526,0x21a0
+Mantle of Skuld,Equipment,lofiObj3,0x51E,0x21a1
+Ghastly Drape,Equipment,lofiObj3,0x52E,0x21a2
+Spectral Ring of Horrors,Equipment,lofiObj3,0x536,0x21a3
+Sentient Staff,Equipment,lofiObj3,0x528,0x21a7
+The Robe of Twilight,Equipment,lofiObj3,0x520,0x21a8
+Ancient Spell_)_ Pierce,Equipment,lofiObj3,0x530,0x21a9
+The Forgotten Ring,Equipment,lofiObj3,0x538,0x21aa
+Zaarvox's Heart,Equipment,d2LofiObjEmbed,0x02,0x7fb9
+Amulet of Drakefyre,Equipment,d2LofiObjEmbed,0x03,0x7fba
+Helm of Draconic Dominance,Equipment,d2LofiObjEmbed,0x01,0x7fbb
+Indomptable,Equipment,d2LofiObjEmbed,0x00,0x7fbc
+Edictum Praetoris,Equipment,d3LofiObjEmbed,0xf8,0x9dc
+Memento Mori,Equipment,d3LofiObjEmbed,0xf9,0x9dd
+Toga Picta,Equipment,d3LofiObjEmbed,0xfa,0x9de
+Interregnum,Equipment,d3LofiObjEmbed,0xfb,0x9df
+Bow of Eternal Frost,Equipment,lofiObj3,0x491,0x258a
+Frostbite,Equipment,lofiObj3,0x492,0x258c
+Present Dispensing Wand,Equipment,lofiObj3,0x55a,0x237c
+An Icicle,Equipment,lofiObj3,0x558,0x237d
+Staff of Yuletide Carols,Equipment,lofiObj3,0x55b,0x237e
+Salju,Equipment,lofiObj3,0x559,0x237f
+Sewer Cocktail,Equipment,lofiObj3,0x570,0x716c
+Void Blade,Equipment,lofiObj3,0x56e,0x716d
+Murky Toxin,Equipment,lofiObj3,0x571,0x7170
+HoneyScepter,Equipment,lofiObj3,0x597,0x136
+Orb of Sweet Demise,Equipment,lofiObj3,0x598,0x132
+Wooden Box,Equipment,d3LofiObjEmbed,0x20,0x0d41
+Prism of Dire Instability,Equipment,d3LofiObjEmbed,0x2c,0x0d42
+Spiteful Scutum,Equipment,d3LofiObjEmbed,0x2d,0x0d43
+Char Slot Unlocker,Equipment,lofiObj3,0x5a0,0x32a
+Vault Chest Unlocker,Equipment,lofiObj3,0x5a1,0x32b
+Frozen Wand,Equipment,d3LofiObjEmbed,0x47,0x1412
+Freezing Quiver,Equipment,d3LofiObjEmbed,0x49,0x1413
+Enchanted Ice Blade,Equipment,d2LofiObjEmbed,0x19,0x16d6
+Staff of Iceblast,Equipment,d2LofiObjEmbed,0x1a,0x16d7
+Eternal Snowflake Wand,Equipment,d2LofiObjEmbed,0x1b,0x16d8
+Arctic Bow,Equipment,d2LofiObjEmbed,0x1c,0x16d9
+Frost Drake Hide Armor,Equipment,d2LofiObjEmbed,0x1d,0x16da
+Frost Elementalist Robe,Equipment,d2LofiObjEmbed,0x1e,0x16db
+Ice Crown,Equipment,d2LofiObjEmbed,0x1f,0x16dc
+Frost Citadel Armor,Equipment,d2LofiObjEmbed,0x24,0x16dd
+Tome of Frigid Protection,Equipment,d2LofiObjEmbed,0x25,0x16de
+Apocalypse Feather,Equipment,d3LofiObjEmbed,0xce,0x6a9
+Wand of the Fallen,Equipment,mountainTempleObjects8x8,0x9d,0x183b
+Kageboshi,Equipment,mountainTempleObjects8x8,0x9e,0x183d
+Dagger of the Hasteful Rabbit,Equipment,buffedBunnyObjects8x8,0x1f,0x899
+Helm of the Swift Bunny,Equipment,buffedBunnyObjects8x8,0x20,0x8a8
+Vitamine Buster,Equipment,buffedBunnyObjects8x8,0x21,0x8a9
+Clover Bow,Equipment,stPatricksObjects8x8,0x09,0x164a
+Sword of the Rainbow's End,Equipment,stPatricksObjects8x8,0x0a,0x164b
+Queen's Stinger Dagger,Equipment,epicHiveObjects8x8,0x21,0x109f
+Hivemaster Helm,Equipment,epicHiveObjects8x8,0x62,0x08b1
+Yellow Beehemoth Quiver,Equipment,epicHiveObjects8x8,0x4b,0x10ed
+Red Beehemoth Quiver,Equipment,epicHiveObjects8x8,0x4c,0x10f3
+Blue Beehemoth Quiver,Equipment,epicHiveObjects8x8,0x4d,0x10f2
+Yellow Beehemoth Armor,Equipment,epicHiveObjects8x8,0x48,0x10d4
+Red Beehemoth Armor,Equipment,epicHiveObjects8x8,0x4a,0x10d5
+Blue Beehemoth Armor,Equipment,epicHiveObjects8x8,0x49,0x10d6
+Nectar Crossfire,Equipment,epicHiveObjects8x8,0x65,0x08f7
+Honeytomb Snare,Equipment,epicHiveObjects8x8,0x66,0x08f8
+Apiary Armor,Equipment,epicHiveObjects8x8,0x67,0x08f9
+Honey Circlet,Equipment,epicHiveObjects8x8,0x68,0x08fa
+Accessory Dye Remover,Dye,lofiObj3,0x5ba,0x13d
+Clothing Dye Remover,Dye,lofiObj3,0x5b9,0x13e
+Carved Golem Remains,Equipment,lostHallsObjects8x8,0xb4,0x0258
+Brain of the Golem,Equipment,lostHallsObjects8x8,0xb5,0x0259
+Golem Garments,Equipment,lostHallsObjects8x8,0xb6,0x025a
+Rusty Cuffs,Equipment,lostHallsObjects8x8,0xb7,0x025b
+Marble Seal,Equipment,lostHallsObjects8x8,39,0x0243
+Staff of Unholy Sacrifice,Equipment,lostHallsObjects8x8,40,0x0244
+Bow of the Void,Equipment,lostHallsObjects8x8,0xa7,0x024c
+Quiver of the Shadows,Equipment,lostHallsObjects8x8,0xa8,0x024d
+Armor of Nil,Equipment,lostHallsObjects8x8,0xa9,0x024e
+Sourcestone,Equipment,lostHallsObjects8x8,0xaa,0x024f
+Omnipotence Ring,Equipment,lostHallsObjects8x8,0xab,0x0251
+Skull of Corrupted Souls,Equipment,lostHallsObjects8x8,0xad,0x0250
+Ritual Robe,Equipment,lostHallsObjects8x8,0xae,0x0252
+Bloodshed Ring,Equipment,lostHallsObjects8x8,0xaf,0x0253
+Sword of the Colossus,Equipment,lostHallsObjects8x8,0xb0,0x0254
+Breastplate of New Life,Equipment,lostHallsObjects8x8,0xb1,0x0255
+Magical Lodestone,Equipment,lostHallsObjects8x8,0xb2,0x0256
+Cloak of Bloody Surprises,Equipment,lostHallsObjects8x8,0xb3,0x0257
+Quest Chest Item,Equipment,d3LofiObjEmbed,0x10,0xd8c
+Epic Quest Chest Item,Equipment,d3LofiObjEmbed,0x12,0xd8e
+Helm of the Jack-o'-naut,Equipment,d2LofiObjEmbed,0x35,0x1794
+Recurring Terror Spell,Equipment,parasiteDenObjects8x8,0x07,0x7a1
+Tome of Pain,Equipment,parasiteDenObjects8x8,0x08,0x7b8
+Scepter of Devastation,Equipment,parasiteDenObjects8x8,0x09,0x7b9
+pdpk,Equipment,parasiteDenObjects8x8,0x00,0x78d
+Symbiotic Ripper,Equipment,d2LofiObjEmbed,0x92,0xbd8
+Parasitic Concoction,Equipment,d2LofiObjEmbed,0x93,0xbd9
+Rags of the Host,Equipment,d2LofiObjEmbed,0x94,0xbda
+Hivemind Circlet,Equipment,d2LofiObjEmbed,0x95,0xbdb
+Abomination's Wrath,Equipment,d2LofiObjEmbed,0x80,0xbbc
+Grotesque Scepter,Equipment,d2LofiObjEmbed,0x81,0xbbd
+Garment of the Beast,Equipment,d2LofiObjEmbed,0x82,0xbbe
+Horrific Claws,Equipment,d2LofiObjEmbed,0x83,0xbbf
+Bagston Pet Stone,Equipment,lofiObj3,0x59e,0x6105
+Goldy Pet Stone,Equipment,lofiObj3,0x59d,0x6108
+Red Bagston Pet Stone,Equipment,lofiObj3,0x5a2,0x7fc1
+Helper Bagston Pet Stone,Equipment,lofiObj3,0x5a3,0x7fc4
+Red Helper Bagston Pet Stone,Equipment,lofiObj3,0x5a4,0x7fc7
+Muddy Tidechaser Pet Stone,Equipment,d2LofiObjEmbed,0x0b,0x7fcf
+Mini Paper Lantern Pet Stone,Equipment,d2LofiObjEmbed,0x26,0x19cf
+Prod Enemy Item,Equipment,lofiChar8x8,0xb5,0xbb2
+Large Purple Pinstripe Cloth,Dye,lofiObj3,0x1b,0x1200
+Small Purple Pinstripe Cloth,Dye,lofiObj3,0x1d,0x1300
+Large Brown Lined Cloth,Dye,lofiObj3,0x1b,0x1201
+Small Brown Lined Cloth,Dye,lofiObj3,0x1d,0x1301
+Large Blue Striped Cloth,Dye,lofiObj3,0x1b,0x1202
+Small Blue Striped Cloth,Dye,lofiObj3,0x1d,0x1302
+Large Black Striped Cloth,Dye,lofiObj3,0x1b,0x1203
+Small Black Striped Cloth,Dye,lofiObj3,0x1d,0x1303
+Large Rainbow Cloth,Dye,lofiObj3,0x1b,0x1204
+Small Rainbow Cloth,Dye,lofiObj3,0x1d,0x1304
+Large Starry Cloth,Dye,lofiObj3,0x1b,0x1205
+Small Starry Cloth,Dye,lofiObj3,0x1d,0x1305
+Large Brown Stitch Cloth,Dye,lofiObj3,0x1b,0x1206
+Small Brown Stitch Cloth,Dye,lofiObj3,0x1d,0x1306
+Large Tan Diamond Cloth,Dye,lofiObj3,0x1b,0x1207
+Small Tan Diamond Cloth,Dye,lofiObj3,0x1d,0x1307
+Large Green Weave Cloth,Dye,lofiObj3,0x1b,0x1208
+Small Green Weave Cloth,Dye,lofiObj3,0x1d,0x1308
+Large Blue Wave Cloth,Dye,lofiObj3,0x1b,0x1209
+Small Blue Wave Cloth,Dye,lofiObj3,0x1d,0x1309
+Large Yellow Wire Cloth,Dye,lofiObj3,0x1b,0x120a
+Small Yellow Wire Cloth,Dye,lofiObj3,0x1d,0x130a
+Large Futuristic Cloth,Dye,lofiObj3,0x1b,0x120b
+Small Futuristic Cloth,Dye,lofiObj3,0x1d,0x130b
+Large Stony Cloth,Dye,lofiObj3,0x1b,0x120c
+Small Stony Cloth,Dye,lofiObj3,0x1d,0x130c
+Large Heart Cloth,Dye,lofiObj3,0x1b,0x120d
+Small Heart Cloth,Dye,lofiObj3,0x1d,0x130d
+Large Skull Cloth,Dye,lofiObj3,0x1b,0x120e
+Small Skull Cloth,Dye,lofiObj3,0x1d,0x130e
+Large Red Diamond Cloth,Dye,lofiObj3,0x1b,0x120f
+Small Red Diamond Cloth,Dye,lofiObj3,0x1d,0x130f
+Large Jester Cloth,Dye,lofiObj3,0x1b,0x1210
+Small Jester Cloth,Dye,lofiObj3,0x1d,0x1310
+Large Crossbox Cloth,Dye,lofiObj3,0x1b,0x1211
+Small Crossbox Cloth,Dye,lofiObj3,0x1d,0x1311
+Large White Diamond Cloth,Dye,lofiObj3,0x1b,0x1212
+Small White Diamond Cloth,Dye,lofiObj3,0x1d,0x1312
+Large Grey Scaly Cloth,Dye,lofiObj3,0x1b,0x1213
+Small Grey Scaly Cloth,Dye,lofiObj3,0x1d,0x1313
+Large Red Spotted Cloth,Dye,lofiObj3,0x1b,0x1214
+Small Red Spotted Cloth,Dye,lofiObj3,0x1d,0x1314
+Large Smiley Cloth,Dye,lofiObj3,0x1b,0x1215
+Small Smiley Cloth,Dye,lofiObj3,0x1d,0x1315
+Large Bold Diamond Cloth,Dye,lofiObj3,0x1b,0x1216
+Small Bold Diamond Cloth,Dye,lofiObj3,0x1d,0x1316
+Large Blue Lace Cloth,Dye,lofiObj3,0x1b,0x1217
+Small Blue Lace Cloth,Dye,lofiObj3,0x1d,0x1317
+Large Loud Spotted Cloth,Dye,lofiObj3,0x1b,0x1218
+Small Loud Spotted Cloth,Dye,lofiObj3,0x1d,0x1318
+Large Red Weft Cloth,Dye,lofiObj3,0x1b,0x1219
+Small Red Weft Cloth,Dye,lofiObj3,0x1d,0x1319
+Large Pink Sparkly Cloth,Dye,lofiObj3,0x1b,0x121a
+Small Pink Sparkly Cloth,Dye,lofiObj3,0x1d,0x131a
+Large Red Lace Cloth,Dye,lofiObj3,0x1b,0x121b
+Small Red Lace Cloth,Dye,lofiObj3,0x1d,0x131b
+Large Pink Maze Cloth,Dye,lofiObj3,0x1b,0x121c
+Small Pink Maze Cloth,Dye,lofiObj3,0x1d,0x131c
+Large Yellow Dot Cloth,Dye,lofiObj3,0x1b,0x121d
+Small Yellow Dot Cloth,Dye,lofiObj3,0x1d,0x131d
+Large Cloud Cloth,Dye,lofiObj3,0x1b,0x121e
+Small Cloud Cloth,Dye,lofiObj3,0x1d,0x131e
+Large Glowthread Cloth,Dye,lofiObj3,0x1b,0x121f
+Small Glowthread Cloth,Dye,lofiObj3,0x1d,0x131f
+Large Sweater Cloth,Dye,lofiObj3,0x1b,0x1220
+Small Sweater Cloth,Dye,lofiObj3,0x1d,0x1320
+Large Bee Stripe Cloth,Dye,lofiObj3,0x1b,0x1221
+Small Bee Stripe Cloth,Dye,lofiObj3,0x1d,0x1321
+Large Western Stripe Cloth,Dye,lofiObj3,0x1b,0x1222
+Small Western Stripe Cloth,Dye,lofiObj3,0x1d,0x1322
+Large Blue Point Cloth,Dye,lofiObj3,0x1b,0x1223
+Small Blue Point Cloth,Dye,lofiObj3,0x1d,0x1323
+Large Robber Cloth,Dye,lofiObj3,0x1b,0x1224
+Small Robber Cloth,Dye,lofiObj3,0x1d,0x1324
+Large Chainmail Cloth,Dye,lofiObj3,0x1b,0x1225
+Small Chainmail Cloth,Dye,lofiObj3,0x1d,0x1325
+Large Dark Blue Stripe Cloth,Dye,lofiObj3,0x1b,0x1226
+Small Dark Blue Stripe Cloth,Dye,lofiObj3,0x1d,0x1326
+Large Vine Cloth,Dye,lofiObj3,0x1b,0x1227
+Small Vine Cloth,Dye,lofiObj3,0x1d,0x1327
+Large Party Cloth,Dye,lofiObj3,0x1b,0x1228
+Small Party Cloth,Dye,lofiObj3,0x1d,0x1328
+Large Viva Cloth,Dye,lofiObj3,0x1b,0x1229
+Small Viva Cloth,Dye,lofiObj3,0x1d,0x1329
+Large Nautical Cloth,Dye,lofiObj3,0x1b,0x122a
+Small Nautical Cloth,Dye,lofiObj3,0x1d,0x132a
+Large Cactus Zag Cloth,Dye,lofiObj3,0x1b,0x122b
+Small Cactus Zag Cloth,Dye,lofiObj3,0x1d,0x132b
+Large Big-Stripe Blue Cloth,Dye,lofiObj3,0x1b,0x122c
+Small Big-Stripe Blue Cloth,Dye,lofiObj3,0x1d,0x132c
+Large Big-Stripe Red Cloth,Dye,lofiObj3,0x1b,0x122d
+Small Big-Stripe Red Cloth,Dye,lofiObj3,0x1d,0x132d
+Large Starry Night Cloth,Dye,lofiObj3,0x1b,0x122e
+Small Starry Night Cloth,Dye,lofiObj3,0x1d,0x132e
+Large Lemon-Lime Cloth,Dye,lofiObj3,0x1b,0x122f
+Small Lemon-Lime Cloth,Dye,lofiObj3,0x1d,0x132f
+Large Floral Cloth,Dye,lofiObj3,0x1b,0x1230
+Small Floral Cloth,Dye,lofiObj3,0x1d,0x1330
+Large Pink Dot Cloth,Dye,lofiObj3,0x1b,0x1231
+Small Pink Dot Cloth,Dye,lofiObj3,0x1d,0x1331
+Large Dark Eyes Cloth,Dye,lofiObj3,0x1b,0x1232
+Small Dark Eyes Cloth,Dye,lofiObj3,0x1d,0x1332
+Large Wind Cloth,Dye,lofiObj3,0x1b,0x1233
+Small Wind Cloth,Dye,lofiObj3,0x1d,0x1333
+Large Shamrock Cloth,Dye,lofiObj3,0x1b,0x1234
+Small Shamrock Cloth,Dye,lofiObj3,0x1d,0x1334
+Large Bright Stripes Cloth,Dye,lofiObj3,0x1b,0x1235
+Small Bright Stripes Cloth,Dye,lofiObj3,0x1d,0x1335
+Large USA Flag Cloth,Dye,lofiObj3,0x1b,0x1236
+Small USA Flag Cloth,Dye,lofiObj3,0x1d,0x1336
+Large Flannel Cloth,Dye,lofiObj3,0x1b,0x1237
+Small Flannel Cloth,Dye,lofiObj3,0x1d,0x1337
+Large Cow Print Cloth,Dye,lofiObj3,0x1b,0x1238
+Small Cow Print Cloth,Dye,lofiObj3,0x1d,0x1338
+Large Lush Camo Cloth,Dye,lofiObj3,0x1b,0x1239
+Small Lush Camo Cloth,Dye,lofiObj3,0x1d,0x1339
+Large Dark Camo Cloth,Dye,lofiObj3,0x1b,0x123a
+Small Dark Camo Cloth,Dye,lofiObj3,0x1d,0x133a
+Large Teal Crystal Cloth,Dye,lofiObj3,0x1b,0x123b
+Small Teal Crystal Cloth,Dye,lofiObj3,0x1d,0x133b
+Large Blue Fireworks Cloth,Dye,lofiObj3,0x1b,0x123c
+Small Blue Fireworks Cloth,Dye,lofiObj3,0x1d,0x133c
+Large Crisscross Cloth,Dye,lofiObj3,0x1b,0x123d
+Small Crisscross Cloth,Dye,lofiObj3,0x1d,0x133d
+Large Diamond Cloth,Dye,lofiObj3,0x1b,0x123e
+Small Diamond Cloth,Dye,lofiObj3,0x1d,0x133e
+Large Egyptian Cloth,Dye,lofiObj3,0x1b,0x123f
+Small Egyptian Cloth,Dye,lofiObj3,0x1d,0x133f
+Large Purple Bones Cloth,Dye,lofiObj3,0x1b,0x1240
+Small Purple Bones Cloth,Dye,lofiObj3,0x1d,0x1340
+Large Plaid Cloth,Dye,lofiObj3,0x1b,0x1241
+Small Plaid Cloth,Dye,lofiObj3,0x1d,0x1341
+Large Red USA Star Cloth,Dye,lofiObj3,0x1b,0x1242
+Small Red USA Star Cloth,Dye,lofiObj3,0x1d,0x1342
+Large Blue USA Star Cloth,Dye,lofiObj3,0x1b,0x1243
+Small Blue USA Star Cloth,Dye,lofiObj3,0x1d,0x1343
+Large USA Star Cloth,Dye,lofiObj3,0x1b,0x1244
+Small USA Star Cloth,Dye,lofiObj3,0x1d,0x1344
+Large Purple Stripes Cloth,Dye,lofiObj3,0x1b,0x1245
+Small Purple Stripes Cloth,Dye,lofiObj3,0x1d,0x1345
+Large Bright Floral Cloth,Dye,lofiObj3,0x1b,0x1246
+Small Bright Floral Cloth,Dye,lofiObj3,0x1d,0x1346
+Large Clanranald Cloth,Dye,lofiObj3,0x1b,0x1247
+Small Clanranald Cloth,Dye,lofiObj3,0x1d,0x1347
+Large American Flag Cloth,Dye,lofiObj3,0x1b,0x1248
+Small American Flag Cloth,Dye,lofiObj3,0x1d,0x1348
+Large Relief Cloth,Dye,lofiObj3,0x1b,0x1249
+Small Relief Cloth,Dye,lofiObj3,0x1d,0x1349
+Large Intense Clovers Cloth,Dye,lofiObj3,0x1b,0x124a
+Small Intense Clovers Cloth,Dye,lofiObj3,0x1d,0x134a
+Large Celtic Knot Cloth,Dye,lofiObj3,0x1b,0x124b
+Small Celtic Knot Cloth,Dye,lofiObj3,0x1d,0x134b
+Large Flame Cloth,Dye,lofiObj3,0x1b,0x124c
+Small Flame Cloth,Dye,lofiObj3,0x1d,0x134c
+Large Heavy Chainmail Cloth,Dye,lofiObj3,0x1b,0x124d
+Small Heavy Chainmail Cloth,Dye,lofiObj3,0x1d,0x134d
+Large Leopard Print Cloth,Dye,lofiObj3,0x1b,0x124e
+Small Leopard Print Cloth,Dye,lofiObj3,0x1d,0x134e
+Large Zebra Print Cloth,Dye,lofiObj3,0x1b,0x124f
+Small Zebra Print Cloth,Dye,lofiObj3,0x1d,0x134f
+Large Colored Egg Cloth,Dye,lofiObj3,0x1b,0x1250
+Small Colored Egg Cloth,Dye,lofiObj3,0x1d,0x1350
+Large Spring Cloth,Dye,lofiObj3,0x1b,0x1251
+Small Spring Cloth,Dye,lofiObj3,0x1d,0x1351
+Large Hibiscus Beach Wrap Cloth,Dye,lofiObj3,0x1b,0x1252
+Small Hibiscus Beach Wrap Cloth,Dye,lofiObj3,0x1d,0x1352
+Large Blue Camo Cloth,Dye,lofiObj3,0x1b,0x1253
+Small Blue Camo Cloth,Dye,lofiObj3,0x1d,0x1353
+Large Sunburst Cloth,Dye,lofiObj3,0x1b,0x1254
+Small Sunburst Cloth,Dye,lofiObj3,0x1d,0x1354
+Large Ivory Dragon Scale Cloth,Dye,lofiObj3,0x1b,0x1255
+Small Ivory Dragon Scale Cloth,Dye,lofiObj3,0x1d,0x1355
+Large Green Dragon Scale Cloth,Dye,lofiObj3,0x1b,0x1256
+Small Green Dragon Scale Cloth,Dye,lofiObj3,0x1d,0x1356
+Large Midnight Dragon Scale Cloth,Dye,lofiObj3,0x1b,0x1257
+Small Midnight Dragon Scale Cloth,Dye,lofiObj3,0x1d,0x1357
+Large Blue Dragon Scale Cloth,Dye,lofiObj3,0x1b,0x1258
+Small Blue Dragon Scale Cloth,Dye,lofiObj3,0x1d,0x1358
+Large Red Dragon Scale Cloth,Dye,lofiObj3,0x1b,0x1259
+Small Red Dragon Scale Cloth,Dye,lofiObj3,0x1d,0x1359
+Large Jester Argyle Cloth,Dye,lofiObj3,0x1b,0x125a
+Small Jester Argyle Cloth,Dye,lofiObj3,0x1d,0x135a
+Large Alchemist Cloth,Dye,lofiObj3,0x1b,0x125b
+Small Alchemist Cloth,Dye,lofiObj3,0x1d,0x135b
+Large Spooky Cloth,Dye,lofiObj3,0x1b,0x125c
+Small Spooky Cloth,Dye,lofiObj3,0x1d,0x135c
+Large Mosaic Cloth,Dye,lofiObj3,0x1b,0x125d
+Small Mosaic Cloth,Dye,lofiObj3,0x1d,0x135d
+Large Blue Bee Cloth,Dye,lofiObj3,0x1b,0x125e
+Small Blue Bee Cloth,Dye,lofiObj3,0x1d,0x135e
+Large Yellow Bee Cloth,Dye,lofiObj3,0x1b,0x125f
+Small Yellow Bee Cloth,Dye,lofiObj3,0x1d,0x135f
+Large Red Bee Cloth,Dye,lofiObj3,0x1b,0x1260
+Small Red Bee Cloth,Dye,lofiObj3,0x1d,0x1360

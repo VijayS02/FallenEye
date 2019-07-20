@@ -1,0 +1,1309 @@
+Candy of Ominous Spells,0,0,0
+Sword of the Fallen,0,0,0
+Helm of the Fallen,0,0,0
+Armor of the Fallen,0,0,0
+Trophy of the Fallen,0,0,0
+Destructor Dagger,0,0,0
+Destructor Armor,0,0,0
+Destructor Cloak,0,0,0
+Ring of the Destructor,0,0,0
+Blade of the Fallen Sky,0,0,0
+Undead's Gross Bow,0,0,0
+Dagger of the Endless Void,0,0,0
+Radiant Wand of Royalism,0,0,0
+Crystallized Ring of Hatred,0,0,0
+Bright Robe of the Crystals,0,0,0
+Crystallized Scepter,0,0,0
+Molten Katana,0,0,0
+Dreadstump's Rapier,0,0,0
+Himura's Katana,0,0,0
+Fang of Frost,0,0,0
+Leviathan's Repentance,0,0,0
+Hallow's End,0,0,0
+Shattered War Axe,0,0,0
+Metal Blood Bow,0,0,0
+Sword of the Aquatic God,0,0,0
+Seal of the Aquatic God,0,0,0
+Armor of the Aquatic God,0,0,0
+Ring of the Aquatic God,0,0,0
+Sword of the Demon Lord,0,0,0
+Helm of the Demon Lord,0,0,0
+Armor of the Demon Lord,0,0,0
+Ring of the Demon Lord,0,0,0
+Wand of the Rising Star,0,0,0
+Sweet Sugar Rush Staff,0,0,0
+Shield of Vendettas,0,0,0
+Carnivorous Sentient Spell,0,0,0
+Candy Robe,0,0,0
+Omega Ancient Sword,0,0,0
+Alpha Ancient Seal,0,0,0
+Ancient Stone Guardian Armor,0,0,0
+Janus Eye Ring,0,0,0
+Burger K ring,0,0,0
+Bow of the Lightning God,0,0,0
+Lightning God Quiver,0,0,0
+Lightning God Armor,0,0,0
+Lightning God Ring,0,0,0
+Acid Katana,0,0,0
+Acid Star,0,0,0
+Acid Armor,0,0,0
+Acid Ring,0,0,0
+PoOoOoOokkErrRr,0,0,0
+Doom Katana,0,0,0
+Skull of the Eagle Sentry,0,0,0
+Wooden Armor of the Apple Tree,0,0,0
+Greeni,0,0,0
+Special Crate,0,0,0
+Item Crate,0,0,0
+Potion Crate,0,0,0
+Miscellaneous Crate,0,0,0
+Handcannon,0,0,0
+Dagger of Goddess of Goddesses,0,0,0
+Armor of the Blue Depths,0,0,0
+Cloak of the 1000 Oceans,0,0,0
+Oceanic Treasure,0,0,0
+Magnificent Receipt,0,0,0
+Work of the Alchemist,0,0,0
+Lucky Box,0,0,0
+Lucky Potion,0,0,0
+Realm Power,0,0,0
+Throwing Spear,0,0,0
+Windcutter,0,0,0
+Firebreather's Tail,0,0,0
+The Searing Blood,0,0,0
+The Scorched Armor,0,0,0
+Eyes of the Firebreather,0,0,0
+Head of the Firebreather,0,0,0
+The Searing Shower,0,0,0
+The Incombustible Robe,0,0,0
+Flames in a Bottle,0,0,0
+The Seaweed Sword,0,0,0
+Head of the Riverborn,0,0,0
+The Drenched Armor,0,0,0
+Tail of the Riverborn,0,0,0
+The Winged Wand,0,0,0
+Book of the Rejuvenating River,0,0,0
+The River Robe,0,0,0
+Water from the River,0,0,0
+Shadowscale's Horn,0,0,0
+Shadow Scales,0,0,0
+The Hidden Armor,1,0,0
+Wing Necklace,0,0,0
+Shadowbone Sword,0,0,0
+Shadowscale's Skull,0,0,0
+The Scavenger's Attire,0,0,0
+Candlestick,0,0,0
+Broken Branch,0,0,0
+Treesmasher's Tail,0,0,0
+The Relentless Armor,0,0,0
+Spikes of the Treesmasher,0,0,0
+Wooden Elegance,0,0,0
+The Split Arrow,0,0,0
+Champion's Attire,0,0,0
+Practice Target,0,0,0
+Sword of Oryx,0,0,0
+Helm of Oryx,0,0,0
+Armor of Oryx,0,0,0
+Ring of Oryx,0,0,0
+Staff of Nature,0,0,0
+Spell Full of Nature,0,0,0
+Robe of the Nature Goddess,0,0,0
+Ring of the Nature Goddess,0,0,0
+Gravedigger's Shovel,0,0,0
+The Soul Collector,0,0,0
+Gravedigger's Disguise,0,0,0
+The Soul Ring,0,0,0
+Rotting Arm,0,0,0
+Carrier's Suit,0,0,0
+The Consumed Ring,0,0,0
+Head Full of Brains,0,0,0
+Soul Scatter,0,0,0
+The Unbreakable Tombstone,0,0,0
+Potion of Growth,0,0,0
+Potion of Ants,0,0,0
+Rigged Potion of the Alchemist,0,0,0
+Small Nodestone,0,0,0
+Big Nodestone,0,0,0
+Galactic Small Nodestone,0,0,0
+Galactic Big Nodestone,0,0,0
+Heavy Bow of the Asgard Guardian,0,0,0
+Quiver of the Asgard Ruins,0,0,0
+Leather Armor of the Asgard Guardian,0,0,0
+Asgard's Treasure,0,0,0
+Ring of the Poker King,0,0,0
+Ring of the Encounter,0,0,0
+Ring of the Mystical Encounter,0,0,0
+Scepter of the Encounter,0,0,0
+An actual cookie,0,0,0
+A skull covered in chocolate,0,0,0
+A trap made of cookies,0,0,0
+A triangular cookie,0,0,0
+Enchanted Uru Sword,0,0,0
+Gungnir,0,0,0
+Hela's Power,0,0,0
+Loki's Dagger,0,0,0
+Loki's Raiment,0,0,0
+Thor's Armor,0,0,0
+Odin's Attire,0,0,0
+Hela's Robe,0,0,0
+Helmet of Thor,0,0,0
+Thor's Bracelets,0,0,0
+Hela's Horns,0,0,0
+Golden Asgardian Helmet,0,0,0
+Platinum Asgardian Helmet,0,0,0
+Obsidian Asgardian Helmet,0,0,0
+Gjallarhorn,0,0,0
+Music of the Gods,0,0,0
+Trickster's Toy,0,0,0
+Loki's Horns,0,0,0
+Mjolnir,0,0,0
+Odin's Ravens,0,0,0
+Hela's Essence,0,0,0
+Warbringer's Flagpole,0,0,0
+Wand Full of Mana,0,0,0
+Arcane Bait,0,0,0
+Wooden Head from the Totem,0,0,0
+Mysterious Incantation,0,0,0
+A Worthy Jewel,0,0,0
+A Precious Rock,0,0,0
+A Desirable Ornament,0,0,0
+Hornshot,0,0,0
+Spit of a Troll,0,0,0
+Ortar's Enchantment,0,0,0
+Ring of Ortar,0,0,0
+Gem Gem's Gem,0,0,0
+Reset Scroll (SP),0,0,0
+Asura,0,0,0
+Traceless,0,0,0
+Malevolent Armor,0,0,0
+Forsaken Ring,0,0,0
+The Frozen Tome,0,0,0
+Ring of the Cosmos,0,0,0
+Powerful Twig,0,0,0
+Linen Coat,0,0,1
+Gray Belt,0,0,0
+Swamp Mirror,0,0,0
+Spectral's Cloak,0,0,0
+Bel's Decapitator,0,0,0
+Helm of the Necropolis,0,0,0
+Thusala's Slasher,0,0,0
+Seal of the Necropolis,0,0,0
+Necrotic Boneplate,0,0,0
+Titan's Breastplate,0,0,0
+Bone Splinter Robe,0,0,0
+Bonemail of the Fallen,0,0,0
+Wand of Bone,0,0,0
+Reaper's Bow,0,0,0
+Orb of Destiny,0,0,0
+Elithor's Soul Bottle,0,0,0
+The Twilight Grimoire,0,0,0
+Limbsplit Quiver,0,0,0
+Flesh Trap,0,0,0
+Wall of Gore,0,0,0
+Tome of Fleshly Desire,0,0,0
+Ring of Fleshly Desire,0,0,0
+Lycaon's Heart,0,0,0
+Claw of the Beast,0,0,0
+Necklace of Fangs,0,0,0
+Lycaon's Hide,0,0,0
+The Apex Bulwark,0,0,0
+Skull of Vampirism,0,0,0
+The Cape of Twilight,0,0,0
+Scepter of the Ancients,0,0,0
+Mini Strength,0,0,0
+Perfectionist,0,0,0
+Arcane Surge,0,0,0
+Solo Thief,0,0,0
+Mini Protection,0,0,0
+Mini Mobility,0,0,0
+Mini Precision,0,0,0
+Mini Spirit,0,0,0
+Mini Enlightenment,0,0,0
+Aggressive Agitator,0,0,0
+Adrenaline Rush,0,0,0
+Narrow Sighted Magic,0,0,0
+Consistent Onslaught,0,0,0
+Mana Hunger,0,0,0
+Regeneration of the Brute,0,0,0
+Bulwark of the Surgeon,0,0,0
+Blood Pact,0,0,0
+Blissful Ignorance,0,0,0
+Biding Time,0,0,0
+Dreadstump's Greed,0,0,0
+Pot Head,0,0,0
+Rare Obsession,0,0,0
+Restoration Temptation,0,0,0
+Eye for an Eye,0,0,0
+Boneshatter,0,0,0
+Mini Health,0,0,0
+Mini Magic,0,0,0
+Head of the Medusa,0,0,0
+Stem of the Brain,0,0,0
+Eye of the Beholder,0,0,0
+Bark of the Ent,0,0,0
+Starfish,0,0,0
+Dreadstump's Cannon,0,0,0
+Ice Shatter,0,0,0
+A Yeti's Horn,0,0,0
+Yeti Walkers,0,0,0
+Wand of the Frozen Queen,0,0,0
+Garb of the Frozen Queen,0,0,0
+Amulet of Ascension,0,0,0
+Star of Bones,0,0,0
+Soulfester,0,0,0
+TN Plans_)_ Staff of Annihilation,0,0,0
+Alice Blue Clothing Dye,0,0,0
+Alice Blue Accessory Dye,0,0,0
+Antique White Clothing Dye,0,0,0
+Antique White Accessory Dye,0,0,0
+Aqua Clothing Dye,0,0,0
+Aqua Accessory Dye,0,0,0
+Aquamarine Clothing Dye,0,0,0
+Aquamarine Accessory Dye,0,0,0
+Azure Clothing Dye,0,0,0
+Azure Accessory Dye,0,0,0
+Beige Clothing Dye,0,0,0
+Beige Accessory Dye,0,0,0
+Bisque Clothing Dye,0,0,0
+Bisque Accessory Dye,0,0,0
+Black Clothing Dye,0,0,0
+Black Accessory Dye,0,0,0
+Blanched Almond Clothing Dye,0,0,0
+Blanched Almond Accessory Dye,0,0,0
+Blue Clothing Dye,0,0,0
+Blue Accessory Dye,0,0,0
+Blue Violet Clothing Dye,0,0,0
+Blue Violet Accessory Dye,0,0,0
+Brown Clothing Dye,0,0,0
+Brown Accessory Dye,0,0,0
+Burly Wood Clothing Dye,0,0,0
+Burly Wood Accessory Dye,0,0,0
+Cadet Blue Clothing Dye,0,0,0
+Cadet Blue Accessory Dye,0,0,0
+Chartreuse Clothing Dye,0,0,0
+Chartreuse Accessory Dye,0,0,0
+Chocolate Clothing Dye,0,0,0
+Chocolate Accessory Dye,0,0,0
+Coral Clothing Dye,0,0,0
+Coral Accessory Dye,0,0,0
+Cornflower Blue Clothing Dye,0,0,0
+Cornflower Blue Accessory Dye,0,0,0
+Cornsilk Clothing Dye,0,0,0
+Cornsilk Accessory Dye,0,0,0
+Crimson Clothing Dye,0,0,0
+Crimson Accessory Dye,0,0,0
+Cyan Clothing Dye,0,0,0
+Cyan Accessory Dye,0,0,0
+Dark Blue Clothing Dye,0,0,0
+Dark Blue Accessory Dye,0,0,0
+Dark Cyan Clothing Dye,0,0,0
+Dark Cyan Accessory Dye,0,0,0
+Dark Golden Rod Clothing Dye,0,0,0
+Dark Golden Rod Accessory Dye,0,0,0
+Dark Gray Clothing Dye,0,0,0
+Dark Gray Accessory Dye,0,0,0
+Dark Green Clothing Dye,0,0,0
+Dark Green Accessory Dye,0,0,0
+Dark Khaki Clothing Dye,0,0,0
+Dark Khaki Accessory Dye,0,0,0
+Dark Magenta Clothing Dye,0,0,0
+Dark Magenta Accessory Dye,0,0,0
+Dark Olive Green Clothing Dye,0,0,0
+Dark Olive Green Accessory Dye,0,0,0
+Dark Orange Clothing Dye,0,0,0
+Dark Orange Accessory Dye,0,0,0
+Dark Orchid Clothing Dye,0,0,0
+Dark Orchid Accessory Dye,0,0,0
+Dark Red Clothing Dye,0,0,0
+Dark Red Accessory Dye,0,0,0
+Dark Salmon Clothing Dye,0,0,0
+Dark Salmon Accessory Dye,0,0,0
+Dark Sea Green Clothing Dye,0,0,0
+Dark Sea Green Accessory Dye,0,0,0
+Dark Slate Blue Clothing Dye,0,0,0
+Dark Slate Blue Accessory Dye,0,0,0
+Dark Slate Gray Clothing Dye,0,0,0
+Dark Slate Gray Accessory Dye,0,0,0
+Dark Turquoise Clothing Dye,0,0,0
+Dark Turquoise Accessory Dye,0,0,0
+Dark Violet Clothing Dye,0,0,0
+Dark Violet Accessory Dye,0,0,0
+Deep Pink Clothing Dye,0,0,0
+Deep Pink Accessory Dye,0,0,0
+Deep Sky Blue Clothing Dye,0,0,0
+Deep Sky Blue Accessory Dye,0,0,0
+Dim Gray Clothing Dye,0,0,0
+Dim Gray Accessory Dye,0,0,0
+Dodger Blue Clothing Dye,0,0,0
+Dodger Blue Accessory Dye,0,0,0
+Fire Brick Clothing Dye,0,0,0
+Fire Brick Accessory Dye,0,0,0
+Floral White Clothing Dye,0,0,0
+Floral White Accessory Dye,0,0,0
+Forest Green Clothing Dye,0,0,0
+Forest Green Accessory Dye,0,0,0
+Fuchsia Clothing Dye,0,0,0
+Fuchsia Accessory Dye,0,0,0
+Gainsboro Clothing Dye,0,0,0
+Gainsboro Accessory Dye,0,0,0
+Ghost White Clothing Dye,0,0,0
+Ghost White Accessory Dye,0,0,0
+Gold Clothing Dye,0,0,0
+Gold Accessory Dye,0,0,0
+Golden Rod Clothing Dye,0,0,0
+Golden Rod Accessory Dye,0,0,0
+Gray Clothing Dye,0,0,0
+Gray Accessory Dye,0,0,0
+Green Clothing Dye,0,0,0
+Green Accessory Dye,0,0,0
+Green Yellow Clothing Dye,0,0,0
+Green Yellow Accessory Dye,0,0,0
+Honey Dew Clothing Dye,0,0,0
+Honey Dew Accessory Dye,0,0,0
+Hot Pink Clothing Dye,0,0,0
+Hot Pink Accessory Dye,0,0,0
+Indian Red Clothing Dye,0,0,0
+Indian Red Accessory Dye,0,0,0
+Indigo Clothing Dye,0,0,0
+Indigo Accessory Dye,0,0,0
+Ivory Clothing Dye,0,0,0
+Ivory Accessory Dye,0,0,0
+Khaki Clothing Dye,0,0,0
+Khaki Accessory Dye,0,0,0
+Lavender Clothing Dye,0,0,0
+Lavender Accessory Dye,0,0,0
+Lavender Blush Clothing Dye,0,0,0
+Lavender Blush Accessory Dye,0,0,0
+Lawn Green Clothing Dye,0,0,0
+Lawn Green Accessory Dye,0,0,0
+Lemon Chiffon Clothing Dye,0,0,0
+Lemon Chiffon Accessory Dye,0,0,0
+Light Blue Clothing Dye,0,0,0
+Light Blue Accessory Dye,0,0,0
+Light Coral Clothing Dye,0,0,0
+Light Coral Accessory Dye,0,0,0
+Light Cyan Clothing Dye,0,0,0
+Light Cyan Accessory Dye,0,0,0
+Light Golden Rod Yellow Clothing Dye,0,0,0
+Light Golden Rod Yellow Accessory Dye,0,0,0
+Light Grey Clothing Dye,0,0,0
+Light Grey Accessory Dye,0,0,0
+Light Green Clothing Dye,0,0,0
+Light Green Accessory Dye,0,0,0
+Light Pink Clothing Dye,0,0,0
+Light Pink Accessory Dye,0,0,0
+Light Salmon Clothing Dye,0,0,0
+Light Salmon Accessory Dye,0,0,0
+Light Sea Green Clothing Dye,0,0,0
+Light Sea Green Accessory Dye,0,0,0
+Light Sky Blue Clothing Dye,0,0,0
+Light Sky Blue Accessory Dye,0,0,0
+Light Slate Gray Clothing Dye,0,0,0
+Light Slate Gray Accessory Dye,0,0,0
+Light Steel Blue Clothing Dye,0,0,0
+Light Steel Blue Accessory Dye,0,0,0
+Light Yellow Clothing Dye,0,0,0
+Light Yellow Accessory Dye,0,0,0
+Lime Clothing Dye,0,0,0
+Lime Accessory Dye,0,0,0
+Lime Green Clothing Dye,0,0,0
+Lime Green Accessory Dye,0,0,0
+Linen Clothing Dye,0,0,0
+Linen Accessory Dye,0,0,0
+Magenta Clothing Dye,0,0,0
+Magenta Accessory Dye,0,0,0
+Maroon Clothing Dye,0,0,0
+Maroon Accessory Dye,0,0,0
+Medium Aqua Marine Clothing Dye,0,0,0
+Medium Aqua Marine Accessory Dye,0,0,0
+Medium Blue Clothing Dye,0,0,0
+Medium Blue Accessory Dye,0,0,0
+Medium Orchid Clothing Dye,0,0,0
+Medium Orchid Accessory Dye,0,0,0
+Medium Purple Clothing Dye,0,0,0
+Medium Purple Accessory Dye,0,0,0
+Medium Sea Green Clothing Dye,0,0,0
+Medium Sea Green Accessory Dye,0,0,0
+Medium Slate Blue Clothing Dye,0,0,0
+Medium Slate Blue Accessory Dye,0,0,0
+Medium Spring Green Clothing Dye,0,0,0
+Medium Spring Green Accessory Dye,0,0,0
+Medium Turquoise Clothing Dye,0,0,0
+Medium Turquoise Accessory Dye,0,0,0
+Medium Violet Red Clothing Dye,0,0,0
+Medium Violet Red Accessory Dye,0,0,0
+Midnight Blue Clothing Dye,0,0,0
+Midnight Blue Accessory Dye,0,0,0
+Mint Cream Clothing Dye,0,0,0
+Mint Cream Accessory Dye,0,0,0
+Misty Rose Clothing Dye,0,0,0
+Misty Rose Accessory Dye,0,0,0
+Moccasin Clothing Dye,0,0,0
+Moccasin Accessory Dye,0,0,0
+Navajo White Clothing Dye,0,0,0
+Navajo White Accessory Dye,0,0,0
+Navy Clothing Dye,0,0,0
+Navy Accessory Dye,0,0,0
+Old Lace Clothing Dye,0,0,0
+Old Lace Accessory Dye,0,0,0
+Olive Clothing Dye,0,0,0
+Olive Accessory Dye,0,0,0
+Olive Drab Clothing Dye,0,0,0
+Olive Drab Accessory Dye,0,0,0
+Orange Clothing Dye,0,0,0
+Orange Accessory Dye,0,0,0
+Orange Red Clothing Dye,0,0,0
+Orange Red Accessory Dye,0,0,0
+Orchid Clothing Dye,0,0,0
+Orchid Accessory Dye,0,0,0
+Pale Golden Rod Clothing Dye,0,0,0
+Pale Golden Rod Accessory Dye,0,0,0
+Pale Green Clothing Dye,0,0,0
+Pale Green Accessory Dye,0,0,0
+Pale Turquoise Clothing Dye,0,0,0
+Pale Turquoise Accessory Dye,0,0,0
+Pale Violet Red Clothing Dye,0,0,0
+Pale Violet Red Accessory Dye,0,0,0
+Papaya Whip Clothing Dye,0,0,0
+Papaya Whip Accessory Dye,0,0,0
+Peach Puff Clothing Dye,0,0,0
+Peach Puff Accessory Dye,0,0,0
+Peru Clothing Dye,0,0,0
+Peru Accessory Dye,0,0,0
+Pink Clothing Dye,0,0,0
+Pink Accessory Dye,0,0,0
+Plum Clothing Dye,0,0,0
+Plum Accessory Dye,0,0,0
+Powder Blue Clothing Dye,0,0,0
+Powder Blue Accessory Dye,0,0,0
+Purple Clothing Dye,0,0,0
+Purple Accessory Dye,0,0,0
+Red Clothing Dye,0,0,0
+Red Accessory Dye,0,0,0
+Rosy Brown Clothing Dye,0,0,0
+Rosy Brown Accessory Dye,0,0,0
+Royal Blue Clothing Dye,0,0,0
+Royal Blue Accessory Dye,0,0,0
+Saddle Brown Clothing Dye,0,0,0
+Saddle Brown Accessory Dye,0,0,0
+Salmon Clothing Dye,0,0,0
+Salmon Accessory Dye,0,0,0
+Sandy Brown Clothing Dye,0,0,0
+Sandy Brown Accessory Dye,0,0,0
+Sea Green Clothing Dye,0,0,0
+Sea Green Accessory Dye,0,0,0
+Sea Shell Clothing Dye,0,0,0
+Sea Shell Accessory Dye,0,0,0
+Sienna Clothing Dye,0,0,0
+Sienna Accessory Dye,0,0,0
+Silver Clothing Dye,0,0,0
+Silver Accessory Dye,0,0,0
+Sky Blue Clothing Dye,0,0,0
+Sky Blue Accessory Dye,0,0,0
+Slate Blue Clothing Dye,0,0,0
+Slate Blue Accessory Dye,0,0,0
+Slate Gray Clothing Dye,0,0,0
+Slate Gray Accessory Dye,0,0,0
+Snow Clothing Dye,0,0,0
+Snow Accessory Dye,0,0,0
+Spring Green Clothing Dye,0,0,0
+Spring Green Accessory Dye,0,0,0
+Steel Blue Clothing Dye,0,0,0
+Steel Blue Accessory Dye,0,0,0
+Tan Clothing Dye,0,0,0
+Tan Accessory Dye,0,0,0
+Teal Clothing Dye,0,0,0
+Teal Accessory Dye,0,0,0
+Thistle Clothing Dye,0,0,0
+Thistle Accessory Dye,0,0,0
+Tomato Clothing Dye,0,0,0
+Tomato Accessory Dye,0,0,0
+Turquoise Clothing Dye,0,0,0
+Turquoise Accessory Dye,0,0,0
+Violet Clothing Dye,0,0,0
+Violet Accessory Dye,0,0,0
+Wheat Clothing Dye,0,0,0
+Wheat Accessory Dye,0,0,0
+White Clothing Dye,0,0,0
+White Accessory Dye,0,0,0
+White Smoke Clothing Dye,0,0,0
+White Smoke Accessory Dye,0,0,0
+Yellow Clothing Dye,0,0,0
+Yellow Accessory Dye,0,0,0
+Yellow Green Clothing Dye,0,0,0
+Yellow Green Accessory Dye,0,0,0
+St Patrick's Green Clothing Dye,0,0,0
+St Patrick's Green Accessory Dye,0,0,0
+Short Sword,0,0,0
+Broad Sword,0,0,0
+Saber,0,0,0
+Long Sword,0,0,0
+Falchion,0,0,0
+Fire Sword,0,0,0
+Glass Sword,0,0,0
+Golden Sword,0,0,0
+Ravenheart Sword,0,0,0
+Dragonsoul Sword,0,0,0
+Archon Sword,0,0,0
+Skysplitter Sword,0,0,0
+Sword of Acclaim,0,0,0
+Sword of Splendor,0,0,0
+Sword of Majesty,0,0,0
+Crystal Sword,0,0,0
+Demon Blade,0,0,0
+Ancient Stone Sword,0,0,0
+Fire Wand,0,0,0
+Force Wand,0,0,0
+Power Wand,0,0,0
+Missile Wand,0,0,0
+Eldritch Wand,0,0,0
+Hell's Fire Wand,0,0,0
+Wand of Dark Magic,0,0,0
+Wand of Arcane Flame,0,0,0
+Sprite Wand,0,0,0
+Wand of Death,0,0,0
+Wand of Deep Sorcery,0,0,0
+Wand of Shadow,0,0,0
+Wand of Ancient Warning,0,0,0
+Wand of Recompense,0,0,0
+Wand of Evocation,0,0,0
+Wand of Retribution,0,0,0
+Crystal Wand,0,0,0
+Wand of the Bulwark,0,0,0
+Wooden Shield,0,0,0
+Iron Shield,0,0,0
+Steel Shield,0,0,0
+Reinforced Shield,0,0,0
+Golden Shield,0,0,0
+Mithril Shield,0,0,0
+Colossus Shield,0,0,0
+Snake Skin Shield,0,0,0
+Shield of Ogmur,0,0,0
+Wolfskin Armor,0,0,0
+Leather Armor,0,0,0
+Basilisk Hide Armor,0,0,0
+Minotaur Hide Armor,0,0,0
+Bearskin Armor,0,0,0
+Chimera Hide Armor,0,0,0
+Wyvern Skin Armor,0,0,0
+Studded Leather Armor,0,0,0
+Snake Skin Armor,0,0,0
+Drake Hide Armor,0,0,0
+Roc Leather Armor,0,0,0
+Hippogriff Hide Armor,0,0,0
+Griffon Hide Armor,0,0,0
+Hydra Skin Armor,0,0,0
+Wyrmhide Armor,0,0,0
+Leviathan Armor,0,0,0
+Iron Mail,0,0,0
+Chainmail,0,0,0
+Blue Steel Mail,0,0,0
+Silver Chainmail,0,0,0
+Golden Chainmail,0,0,0
+Plate Mail,0,0,0
+Mithril Chainmail,0,0,0
+Mithril Armor,0,0,0
+Dragonscale Armor,0,0,0
+Desolation Armor,0,0,0
+Vengeance Armor,0,0,0
+Abyssal Armor,0,0,0
+Acropolis Armor,0,0,0
+Dominion Armor,0,0,0
+Annihilation Armor,0,0,0
+Steel Dagger,0,0,0
+Dirk,0,0,0
+Blue Steel Dagger,0,0,0
+Dusky Rose Dagger,0,0,0
+Silver Dagger,0,0,0
+Golden Dagger,0,0,0
+Obsidian Dagger,0,0,0
+Poison Fang Dagger,0,0,0
+Mithril Dagger,0,0,0
+Fire Dagger,0,0,0
+Ragetalon Dagger,0,0,0
+Emeraldshard Dagger,0,0,0
+Agateclaw Dagger,0,0,0
+Dagger of Foul Malevolence,0,0,0
+Dagger of Sinister Deeds,0,0,0
+Dagger of Dire Hatred,0,0,0
+Dirk of Cronus,0,0,0
+Shortbow,0,0,0
+Reinforced Bow,0,0,0
+Crossbow,0,0,0
+Greywood Bow,0,0,0
+Ironwood Bow,0,0,0
+Fire Bow,0,0,0
+Double Bow,0,0,0
+Heavy Crossbow,0,0,0
+Golden Bow,0,0,0
+Verdant Bow,0,0,0
+Bow of Fey Magic,0,0,0
+Bow of Innocent Blood,0,0,0
+Bow of Covert Havens,0,0,0
+Bow of Mystical Energy,0,0,0
+Bow of Deep Enchantment,0,0,0
+Doom Bow,0,0,0
+Coral Bow,0,0,0
+Potion of Attack,0,0,0
+Potion of Defense,0,0,0
+Potion of Speed,0,0,0
+Potion of Vitality,0,0,0
+Potion of Wisdom,0,0,0
+Potion of Dexterity,0,0,0
+Potion of Life,0,0,0
+Potion of Mana,0,0,0
+Minor Health Potion,0,0,0
+Minor Magic Potion,0,0,0
+Fire Water,0,0,0
+Cream Spirit,0,0,0
+Chardonnay,0,0,0
+Melon Liqueur,0,0,0
+Cabernet,0,0,0
+Vintage Port,0,0,0
+Sauvignon Blanc,0,0,0
+Muscat,0,0,0
+Rice Wine,0,0,0
+Shiraz,0,0,0
+Snake Eye Ring,0,0,0
+Spider's Eye Ring,0,0,0
+Ring of Minor Defense,0,0,0
+Ring of Attack,0,0,0
+Ring of Defense,0,0,0
+Ring of Speed,0,0,0
+Ring of Vitality,0,0,0
+Ring of Wisdom,0,0,0
+Ring of Dexterity,0,0,0
+Ring of Health,0,0,0
+Ring of Magic,0,0,0
+Ring of Greater Attack,0,0,0
+Ring of Greater Defense,0,0,0
+Ring of Greater Speed,0,0,0
+Ring of Greater Vitality,0,0,0
+Ring of Greater Wisdom,0,0,0
+Ring of Greater Dexterity,0,0,0
+Ring of Greater Health,0,0,0
+Ring of Greater Magic,0,0,0
+Ring of Superior Attack,0,0,0
+Ring of Superior Defense,0,0,0
+Ring of Superior Speed,0,0,0
+Ring of Superior Vitality,0,0,0
+Ring of Superior Wisdom,0,0,0
+Ring of Superior Dexterity,0,0,0
+Ring of Superior Health,0,0,0
+Ring of Superior Magic,0,0,0
+Ring of Paramount Attack,0,0,0
+Ring of Paramount Defense,0,0,0
+Ring of Paramount Speed,0,0,0
+Ring of Paramount Vitality,0,0,0
+Ring of Paramount Wisdom,0,0,0
+Ring of Paramount Dexterity,0,0,0
+Ring of Paramount Health,0,0,0
+Ring of Paramount Magic,0,0,0
+Ring of Exalted Attack,0,0,0
+Ring of Exalted Defense,0,0,0
+Ring of Exalted Speed,0,0,0
+Ring of Exalted Vitality,0,0,0
+Ring of Exalted Wisdom,0,0,0
+Ring of Exalted Dexterity,0,0,0
+Ring of Exalted Health,0,0,0
+Ring of Exalted Magic,0,0,0
+Ring of Unbound Attack,0,0,0
+Ring of Unbound Defense,0,0,0
+Ring of Unbound Speed,0,0,0
+Ring of Unbound Vitality,0,0,0
+Ring of Unbound Wisdom,0,0,0
+Ring of Unbound Dexterity,0,0,0
+Ring of Unbound Health,0,0,0
+Ring of Decades,0,0,0
+Ring of Unbound Magic,0,0,0
+The Forgotten Crown,0,0,0
+The Twilight Gemstone,0,0,0
+Bracer of the Guardian,0,0,0
+Ring of the Sphinx,0,0,0
+Ring of the Nile,0,0,0
+Ring of the Pyramid,0,0,0
+Enchanted Ice Shard,0,0,0
+Ring of the Northern Light,0,0,0
+Frimarra,0,0,0
+Fire Spray Spell,0,0,0
+Flame Burst Spell,0,0,0
+Fire Nova Spell,0,0,0
+Scorching Blast Spell,0,0,0
+Destruction Sphere Spell,0,0,0
+Magic Nova Spell,0,0,0
+Elemental Detonation Spell,0,0,0
+Penetrating Blast Spell,0,0,0
+Healing Tome,0,0,0
+Remedy Tome,0,0,0
+Spirit Salve Tome,0,0,0
+Tome of Rejuvenation,0,0,0
+Tome of Renewing,0,0,0
+Tome of Divine Favor,0,0,0
+Tome of Holy Guidance,0,0,0
+Pirate Rum,0,0,0
+Magic Mushroom,0,0,0
+Seal of the Initiate,0,0,0
+Seal of the Pilgrim,0,0,0
+Seal of the Seeker,0,0,0
+Seal of the Aspirant,0,0,0
+Seal of the Divine,0,0,0
+Seal of the Holy Warrior,0,0,0
+Seal of the Blessed Champion,0,0,0
+Seal of Blasphemous Prayer,0,0,0
+Cloak of Shadows,0,0,0
+Cloak of Darkness,0,0,0
+Cloak of Speed,0,0,0
+Cloak of the Night Thief,0,0,0
+Cloak of the Red Agent,0,0,0
+Cloak of Endless Twilight,0,0,0
+Cloak of Ghostly Concealment,0,0,0
+Cloak of the Planewalker,0,0,0
+Robe of the Neophyte,0,0,0
+Robe of the Apprentice,0,0,0
+Robe of the Acolyte,0,0,0
+Robe of the Student,0,0,0
+Robe of the Conjurer,0,0,0
+Robe of the Adept,0,0,0
+Robe of the Invoker,0,0,0
+Robe of the Illusionist,0,0,0
+Robe of the Master,0,0,0
+Robe of the Shadow Magus,0,0,0
+Robe of the Moon Wizard,0,0,0
+Robe of the Elder Warlock,0,0,0
+Robe of the Grand Sorcerer,0,0,0
+Robe of the Star Mother,0,0,0
+Robe of the Ancient Intellect,0,0,0
+Magic Quiver,0,0,0
+Reinforced Quiver,0,0,0
+Iron Quiver,0,0,0
+Elvencraft Quiver,0,0,0
+Magesteel Quiver,0,0,0
+Golden Quiver,0,0,0
+Quiver of Elvish Mastery,0,0,0
+Quiver of Thunder,0,0,0
+Combat Helm,0,0,0
+Bronze Helm,0,0,0
+Black Iron Helm,0,0,0
+Red Iron Helm,0,0,0
+Steel Helm,0,0,0
+Golden Helm,0,0,0
+Helm of the Great General,0,0,0
+Helm of the Juggernaut,0,0,0
+Energy Staff,0,0,0
+Firebrand Staff,0,0,0
+Comet Staff,0,0,0
+Serpentine Staff,0,0,0
+Meteor Staff,0,0,0
+Slayer Staff,0,0,0
+Avenger Staff,0,0,0
+Staff of Destruction,0,0,0
+Staff of Horror,0,0,0
+Staff of Necrotic Arcana,0,0,0
+Staff of Diabolic Secrets,0,0,0
+Staff of Astral Knowledge,0,0,0
+Staff of the Cosmic Whole,0,0,0
+Staff of the Vital Unity,0,0,0
+Staff of the Fundamental Core,0,0,0
+Staff of Extreme Prejudice,0,0,0
+Centipede Poison,0,0,0
+Spider Venom,0,0,0
+Pit Viper Poison,0,0,0
+Stingray Poison,0,0,0
+Felwasp Toxin,0,0,0
+Nightwing Venom,0,0,0
+Baneserpent Poison,0,0,0
+Necrotic Skull,0,0,0
+Breathtaker Skull,0,0,0
+Heartstealer Skull,0,0,0
+Soul Siphon Skull,0,0,0
+Essence Tap Skull,0,0,0
+Lifedrinker Skull,0,0,0
+Bloodsucker Skull,0,0,0
+Skull of Endless Torment,0,0,0
+Hunting Trap,0,0,0
+Wilderlands Trap,0,0,0
+Deepforest Trap,0,0,0
+Savage Trap,0,0,0
+Demonhunter Trap,0,0,0
+Dragonstalker Trap,0,0,0
+Giantcatcher Trap,0,0,0
+Stasis Orb,0,0,0
+Suspension Orb,0,0,0
+Imprisonment Orb,0,0,0
+Neutralization Orb,0,0,0
+Timelock Orb,0,0,0
+Banishment Orb,0,0,0
+Planefetter Orb,0,0,0
+Orb of Conflict,0,0,0
+Decoy Prism,0,0,0
+Deception Prism,0,0,0
+Illusion Prism,0,0,0
+Hallucination Prism,0,0,0
+Prism of Figments,0,0,0
+Prism of Phantoms,0,0,0
+Prism of Apparitions,0,0,0
+Prism of Dancing Swords,0,0,0
+Chicken Leg of Doom,0,0,0
+Lightning Scepter,0,0,0
+Discharge Scepter,0,0,0
+Thunderclap Scepter,0,0,0
+Arcblast Scepter,0,0,0
+Cloudflash Scepter,0,0,0
+Scepter of Skybolts,0,0,0
+Scepter of Storms,0,0,0
+Amulet of Dispersion,0,0,0
+Coral Juice,0,0,0
+Coral Ring,0,0,0
+Robe of the Tlatoani,0,0,0
+Staff of the Crystal Serpent,0,0,0
+Cracked Crystal Skull,0,0,0
+Crystal Bone Ring,0,0,0
+Coral Silk Armor,0,0,0
+Pollen Powder,0,0,0
+Thousand Shot,0,0,0
+Coral Venom Trap,0,0,0
+Trap of the Vile Spirit,0,0,0
+St. Abraham's Wand,0,0,0
+Tome of Holy Protection,0,0,0
+Tome of Purification,0,0,0
+Chasuble of Holy Light,0,0,0
+Ring of Divine Faith,0,0,0
+Holy Water,0,0,0
+Bone Dagger,0,0,0
+Anatis Staff,0,0,0
+Ghost Pirate Rum,0,0,0
+Captain's Ring,0,0,0
+Spectral Cloth Armor,0,0,0
+Spirit Dagger,0,0,0
+Ghostly Prism,0,0,0
+Small Firecracker,0,0,0
+Large Firecracker,0,0,0
+America Ring,0,0,0
+Scepter of Fulmination,0,0,0
+Experimental Ring,0,0,0
+Robe of the Mad Scientist,0,0,0
+Conducting Wand,0,0,0
+Sand Pail 5,0,0,0
+Sand Pail 4,0,0,0
+Sand Pail 3,0,0,0
+Sand Pail 2,0,0,0
+Sand Pail 1,0,0,0
+Gold Medal,0,0,0
+Silver Medal,0,0,0
+Bronze Medal,0,0,0
+Rusty Katana,0,0,0
+Kendo Stick,0,0,0
+Plain Katana,0,0,0
+Thunder Katana,0,0,0
+Line Kutter Katana,0,0,0
+Night Edge,0,0,0
+Sky Edge,0,0,0
+Buster Katana,0,0,0
+Demon Edge,0,0,0
+Jewel Eye Katana,0,0,0
+Ichimonji,0,0,0
+Muramasa,0,0,0
+Masamune,0,0,0
+Sadamune,0,0,0
+Kusanagi,0,0,0
+Useless Katana,0,0,0
+Ray Katana,0,0,0
+Basic Star,0,0,0
+Four Point Star,0,0,0
+Spiral Shuriken,0,0,0
+Silver Star,0,0,0
+Wind Circle,0,0,0
+Ice Star,0,0,0
+Doom Circle,0,0,0
+Midnight Star,0,0,0
+Candy Ring,0,0,0
+Rock Candy,0,0,0
+Candy Coated Armor,0,0,0
+Loot Drop Potion,0,0,0
+XP Booster 20 min,0,0,0
+Plague Poison,0,0,0
+Backpack,0,0,0
+Resurrected Warrior's Armor,0,0,0
+Golden Ankh,0,0,0
+Eye of Osiris,0,0,0
+Pharaoh's Mask,0,0,0
+Golden Cockle,0,0,0
+Golden Conch,0,0,0
+Golden Horn Conch,0,0,0
+Golden Nut,0,0,0
+Golden Bolt,0,0,0
+Golden Femur,0,0,0
+Golden Ribcage,0,0,0
+Golden Skull,0,0,0
+Golden Candelabra,0,0,0
+Holy Cross,0,0,0
+Pearl Necklace,0,0,0
+Golden Chalice,0,0,0
+Ruby Gemstone,0,0,0
+Old Firecracker,0,0,0
+Cheater Light Armor,0,0,0
+Cheater Robe,0,0,0
+Cheater Heavy Armor,0,0,0
+Draconis Potion,0,0,0
+Lucky Clover,0,0,0
+Leaf Dragon Hide Armor,0,0,0
+Water Dragon Silk Robe,0,0,0
+Fire Dragon Battle Armor,0,0,0
+Sullen Blade,0,0,0
+Pirate King's Cutlass,0,0,0
+Doku No Ken,0,0,0
+Leaf Bow,0,0,0
+Doctor Swordsworth,0,0,0
+KoalaPOW,0,0,0
+Spicy Wand of Spice,0,0,0
+Robobow,0,0,0
+Sunshine Shiv,0,0,0
+Arbiter's Wrath,0,0,0
+Tablet of the King's Avatar,0,0,0
+Skull splitter Sword,0,0,0
+Diamond Bladed Katana,0,0,0
+Staff of Adoration,0,0,0
+Wand of Budding Romance,0,0,0
+Heartfind Dagger,0,0,0
+Vinesword,0,0,0
+Cupid's Bow,0,0,0
+Wand of Egg cellence,0,0,0
+Staff of the Rising Sun,0,0,0
+Thousand Suns Spell,0,0,0
+Robe of the Summer Solstice,0,0,0
+Ring of the Burning Sun,0,0,0
+Bow of the Morning Star,0,0,0
+Sword of Illumination,0,0,0
+Dagger of the Amethyst Prism,0,0,0
+Unstable Anomaly,0,0,0
+Precisely Calibrated Stringstick,0,0,0
+Barely Attuned Magic Thingy,0,0,0
+Lethargic Sentience,0,0,0
+Toy Knife,0,0,0
+Harlequin Armor,0,0,0
+Almandine Armor of Anger,0,0,0
+Almandine Ring of Wrath,0,0,0
+Onyx Shield of the Mad God,0,0,0
+Sword of the Mad God,0,0,0
+Wand of Ancient Terror,0,0,0
+Dagger of the Terrible Talon,0,0,0
+Bow of Nightmares,0,0,0
+Staff of Horrific Knowledge,0,0,0
+Corrupted Cleaver,0,0,0
+Staff of Esben,0,0,0
+Skullish Remains of Esben,0,0,0
+Shendyt of Geb,0,0,0
+Geb's Ring of Wisdom,0,0,0
+Book of Geb,0,0,0
+Wand of Geb,0,0,0
+Soulless Robe,0,0,0
+Ring of the Covetous Heart,0,0,0
+Soul of the Bearer,0,0,0
+The Phylactery,0,0,0
+Fairy Plate,0,0,0
+Ring of Pure Wishes,0,0,0
+Seal of the Enchanted Forest,0,0,0
+Pixie Enchanted Sword,0,0,0
+Etherite Dagger,0,0,0
+Mantle of Skuld,0,0,0
+Ghastly Drape,0,0,0
+Spectral Ring of Horrors,0,0,0
+Sentient Staff,0,0,0
+The Robe of Twilight,0,0,0
+Ancient Spell_)_ Pierce,0,0,0
+The Forgotten Ring,0,0,0
+Zaarvox's Heart,0,0,0
+Amulet of Drakefyre,0,0,0
+Helm of Draconic Dominance,0,0,0
+Indomptable,0,0,0
+Edictum Praetoris,0,0,0
+Memento Mori,0,0,0
+Toga Picta,0,0,0
+Interregnum,0,0,0
+Bow of Eternal Frost,0,0,0
+Frostbite,0,0,0
+Present Dispensing Wand,0,0,0
+An Icicle,0,0,0
+Staff of Yuletide Carols,0,0,0
+Salju,0,0,0
+Sewer Cocktail,0,0,0
+Void Blade,0,0,0
+Murky Toxin,0,0,0
+HoneyScepter,0,0,0
+Orb of Sweet Demise,0,0,0
+Wooden Box,0,0,0
+Prism of Dire Instability,0,0,0
+Spiteful Scutum,0,0,0
+Char Slot Unlocker,0,0,0
+Vault Chest Unlocker,0,0,0
+Frozen Wand,0,0,0
+Freezing Quiver,0,0,0
+Enchanted Ice Blade,0,0,0
+Staff of Iceblast,0,0,0
+Eternal Snowflake Wand,0,0,0
+Arctic Bow,0,0,0
+Frost Drake Hide Armor,0,0,0
+Frost Elementalist Robe,0,0,0
+Ice Crown,0,0,0
+Frost Citadel Armor,0,0,0
+Tome of Frigid Protection,0,0,0
+Apocalypse Feather,0,0,0
+Wand of the Fallen,0,0,0
+Kageboshi,0,0,0
+Dagger of the Hasteful Rabbit,0,0,0
+Helm of the Swift Bunny,0,0,0
+Vitamine Buster,0,0,0
+Clover Bow,0,0,0
+Sword of the Rainbow's End,0,0,0
+Queen's Stinger Dagger,0,0,0
+Hivemaster Helm,0,0,0
+Yellow Beehemoth Quiver,0,0,0
+Red Beehemoth Quiver,0,0,0
+Blue Beehemoth Quiver,0,0,0
+Yellow Beehemoth Armor,0,0,0
+Red Beehemoth Armor,0,0,0
+Blue Beehemoth Armor,0,0,0
+Nectar Crossfire,0,0,0
+Honeytomb Snare,0,0,0
+Apiary Armor,0,0,0
+Honey Circlet,0,0,0
+Accessory Dye Remover,0,0,0
+Clothing Dye Remover,0,0,0
+Carved Golem Remains,0,0,0
+Brain of the Golem,0,0,0
+Golem Garments,0,0,0
+Rusty Cuffs,0,0,0
+Marble Seal,0,0,0
+Staff of Unholy Sacrifice,0,0,0
+Bow of the Void,0,0,0
+Quiver of the Shadows,0,0,0
+Armor of Nil,0,0,0
+Sourcestone,0,0,0
+Omnipotence Ring,0,0,0
+Skull of Corrupted Souls,0,0,0
+Ritual Robe,0,0,0
+Bloodshed Ring,0,0,0
+Sword of the Colossus,0,0,0
+Breastplate of New Life,0,0,0
+Magical Lodestone,0,0,0
+Cloak of Bloody Surprises,0,0,0
+Quest Chest Item,0,0,0
+Epic Quest Chest Item,0,0,0
+Helm of the Jack o' naut,0,0,0
+Recurring Terror Spell,0,0,0
+Tome of Pain,0,0,0
+Scepter of Devastation,0,0,0
+pdpk,0,0,0
+Symbiotic Ripper,0,0,0
+Parasitic Concoction,0,0,0
+Rags of the Host,0,0,0
+Hivemind Circlet,0,0,0
+Abomination's Wrath,0,0,0
+Grotesque Scepter,0,0,0
+Garment of the Beast,0,0,0
+Horrific Claws,0,0,0
+Bagston Pet Stone,0,0,0
+Goldy Pet Stone,0,0,0
+Red Bagston Pet Stone,0,0,0
+Helper Bagston Pet Stone,0,0,0
+Red Helper Bagston Pet Stone,0,0,0
+Muddy Tidechaser Pet Stone,0,0,0
+Mini Paper Lantern Pet Stone,0,0,0
+Large Purple Pinstripe Cloth,0,0,0
+Small Purple Pinstripe Cloth,0,0,0
+Large Brown Lined Cloth,0,0,0
+Small Brown Lined Cloth,0,0,0
+Large Blue Striped Cloth,0,0,0
+Small Blue Striped Cloth,0,0,0
+Large Black Striped Cloth,0,0,0
+Small Black Striped Cloth,0,0,0
+Large Rainbow Cloth,0,0,0
+Small Rainbow Cloth,0,0,0
+Large Starry Cloth,0,0,0
+Small Starry Cloth,0,0,0
+Large Brown Stitch Cloth,0,0,0
+Small Brown Stitch Cloth,0,0,0
+Large Tan Diamond Cloth,0,0,0
+Small Tan Diamond Cloth,0,0,0
+Large Green Weave Cloth,0,0,0
+Small Green Weave Cloth,0,0,0
+Large Blue Wave Cloth,0,0,0
+Small Blue Wave Cloth,0,0,0
+Large Yellow Wire Cloth,0,0,0
+Small Yellow Wire Cloth,0,0,0
+Large Futuristic Cloth,0,0,0
+Small Futuristic Cloth,0,0,0
+Large Stony Cloth,0,0,0
+Small Stony Cloth,0,0,0
+Large Heart Cloth,0,0,0
+Small Heart Cloth,0,0,0
+Large Skull Cloth,0,0,0
+Small Skull Cloth,0,0,0
+Large Red Diamond Cloth,0,0,0
+Small Red Diamond Cloth,0,0,0
+Large Jester Cloth,0,0,0
+Small Jester Cloth,0,0,0
+Large Crossbox Cloth,0,0,0
+Small Crossbox Cloth,0,0,0
+Large White Diamond Cloth,0,0,0
+Small White Diamond Cloth,0,0,0
+Large Grey Scaly Cloth,0,0,0
+Small Grey Scaly Cloth,0,0,0
+Large Red Spotted Cloth,0,0,0
+Small Red Spotted Cloth,0,0,0
+Large Smiley Cloth,0,0,0
+Small Smiley Cloth,0,0,0
+Large Bold Diamond Cloth,0,0,0
+Small Bold Diamond Cloth,0,0,0
+Large Blue Lace Cloth,0,0,0
+Small Blue Lace Cloth,0,0,0
+Large Loud Spotted Cloth,0,0,0
+Small Loud Spotted Cloth,0,0,0
+Large Red Weft Cloth,0,0,0
+Small Red Weft Cloth,0,0,0
+Large Pink Sparkly Cloth,0,0,0
+Small Pink Sparkly Cloth,0,0,0
+Large Red Lace Cloth,0,0,0
+Small Red Lace Cloth,0,0,0
+Large Pink Maze Cloth,0,0,0
+Small Pink Maze Cloth,0,0,0
+Large Yellow Dot Cloth,0,0,0
+Small Yellow Dot Cloth,0,0,0
+Large Cloud Cloth,0,0,0
+Small Cloud Cloth,0,0,0
+Large Glowthread Cloth,0,0,0
+Small Glowthread Cloth,0,0,0
+Large Sweater Cloth,0,0,0
+Small Sweater Cloth,0,0,0
+Large Bee Stripe Cloth,0,0,0
+Small Bee Stripe Cloth,0,0,0
+Large Western Stripe Cloth,0,0,0
+Small Western Stripe Cloth,0,0,0
+Large Blue Point Cloth,0,0,0
+Small Blue Point Cloth,0,0,0
+Large Robber Cloth,0,0,0
+Small Robber Cloth,0,0,0
+Large Chainmail Cloth,0,0,0
+Small Chainmail Cloth,0,0,0
+Large Dark Blue Stripe Cloth,0,0,0
+Small Dark Blue Stripe Cloth,0,0,0
+Large Vine Cloth,0,0,0
+Small Vine Cloth,0,0,0
+Large Party Cloth,0,0,0
+Small Party Cloth,0,0,0
+Large Viva Cloth,0,0,0
+Small Viva Cloth,0,0,0
+Large Nautical Cloth,0,0,0
+Small Nautical Cloth,0,0,0
+Large Cactus Zag Cloth,0,0,0
+Small Cactus Zag Cloth,0,0,0
+Large Big Stripe Blue Cloth,0,0,0
+Small Big Stripe Blue Cloth,0,0,0
+Large Big Stripe Red Cloth,0,0,0
+Small Big Stripe Red Cloth,0,0,0
+Large Starry Night Cloth,0,0,0
+Small Starry Night Cloth,0,0,0
+Large Lemon Lime Cloth,0,0,0
+Small Lemon Lime Cloth,0,0,0
+Large Floral Cloth,0,0,0
+Small Floral Cloth,0,0,0
+Large Pink Dot Cloth,0,0,0
+Small Pink Dot Cloth,0,0,0
+Large Dark Eyes Cloth,0,0,0
+Small Dark Eyes Cloth,0,0,0
+Large Wind Cloth,0,0,0
+Small Wind Cloth,0,0,0
+Large Shamrock Cloth,0,0,0
+Small Shamrock Cloth,0,0,0
+Large Bright Stripes Cloth,0,0,0
+Small Bright Stripes Cloth,0,0,0
+Large USA Flag Cloth,0,0,0
+Small USA Flag Cloth,0,0,0
+Large Flannel Cloth,0,0,0
+Small Flannel Cloth,0,0,0
+Large Cow Print Cloth,0,0,0
+Small Cow Print Cloth,0,0,0
+Large Lush Camo Cloth,0,0,0
+Small Lush Camo Cloth,0,0,0
+Large Dark Camo Cloth,0,0,0
+Small Dark Camo Cloth,0,0,0
+Large Teal Crystal Cloth,0,0,0
+Small Teal Crystal Cloth,0,0,0
+Large Blue Fireworks Cloth,0,0,0
+Small Blue Fireworks Cloth,0,0,0
+Large Crisscross Cloth,0,0,0
+Small Crisscross Cloth,0,0,0
+Large Diamond Cloth,0,0,0
+Small Diamond Cloth,0,0,0
+Large Egyptian Cloth,0,0,0
+Small Egyptian Cloth,0,0,0
+Large Purple Bones Cloth,0,0,0
+Small Purple Bones Cloth,0,0,0
+Large Plaid Cloth,0,0,0
+Small Plaid Cloth,0,0,0
+Large Red USA Star Cloth,0,0,0
+Small Red USA Star Cloth,0,0,0
+Large Blue USA Star Cloth,0,0,0
+Small Blue USA Star Cloth,0,0,0
+Large USA Star Cloth,0,0,0
+Small USA Star Cloth,0,0,0
+Large Purple Stripes Cloth,0,0,0
+Small Purple Stripes Cloth,0,0,0
+Large Bright Floral Cloth,0,0,0
+Small Bright Floral Cloth,0,0,0
+Large Clanranald Cloth,0,0,0
+Small Clanranald Cloth,0,0,0
+Large American Flag Cloth,0,0,0
+Small American Flag Cloth,0,0,0
+Large Relief Cloth,0,0,0
+Small Relief Cloth,0,0,0
+Large Intense Clovers Cloth,0,0,0
+Small Intense Clovers Cloth,0,0,0
+Large Celtic Knot Cloth,0,0,0
+Small Celtic Knot Cloth,0,0,0
+Large Flame Cloth,0,0,0
+Small Flame Cloth,0,0,0
+Large Heavy Chainmail Cloth,0,0,0
+Small Heavy Chainmail Cloth,0,0,0
+Large Leopard Print Cloth,0,0,0
+Small Leopard Print Cloth,0,0,0
+Large Zebra Print Cloth,0,0,0
+Small Zebra Print Cloth,0,0,0
+Large Colored Egg Cloth,0,0,0
+Small Colored Egg Cloth,0,0,0
+Large Spring Cloth,0,0,0
+Small Spring Cloth,0,0,0
+Large Hibiscus Beach Wrap Cloth,0,0,0
+Small Hibiscus Beach Wrap Cloth,0,0,0
+Large Blue Camo Cloth,0,0,0
+Small Blue Camo Cloth,0,0,0
+Large Sunburst Cloth,0,0,0
+Small Sunburst Cloth,0,0,0
+Large Ivory Dragon Scale Cloth,0,0,0
+Small Ivory Dragon Scale Cloth,0,0,0
+Large Green Dragon Scale Cloth,0,0,0
+Small Green Dragon Scale Cloth,0,0,0
+Large Midnight Dragon Scale Cloth,0,0,0
+Small Midnight Dragon Scale Cloth,0,0,0
+Large Blue Dragon Scale Cloth,0,0,0
+Small Blue Dragon Scale Cloth,0,0,0
+Large Red Dragon Scale Cloth,0,0,0
+Small Red Dragon Scale Cloth,0,0,0
+Large Jester Argyle Cloth,0,0,0
+Small Jester Argyle Cloth,0,0,0
+Large Alchemist Cloth,0,0,0
+Small Alchemist Cloth,0,0,0
+Large Spooky Cloth,0,0,0
+Small Spooky Cloth,0,0,0
+Large Mosaic Cloth,0,0,0
+Small Mosaic Cloth,0,0,0
+Large Blue Bee Cloth,0,0,0
+Small Blue Bee Cloth,0,0,0
+Large Yellow Bee Cloth,0,0,0
+Small Yellow Bee Cloth,0,0,0
+Large Red Bee Cloth,0,0,0
+Small Red Bee Cloth,0,0,0
+100 Fame,0,0,0
+1000 Fame,0,0,0
+5000 Fame,0,0,0
+500 Fame,0,0,0

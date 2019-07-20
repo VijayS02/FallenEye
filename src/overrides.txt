@@ -1,0 +1,2 @@
+lofiObj,EmbeddedAssets_d1LofiObjEmbed_.png
+lofiObj4,EmbeddedAssets_lofiObj4Embed_.png
