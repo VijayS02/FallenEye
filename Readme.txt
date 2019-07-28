@@ -8,6 +8,7 @@ dbname = "rotfdata"
 In order to create the tables on the server, the "~createTradesTable.php" website inside scripts should be opened once, a success messgae should appear.
 This page is not required after being run once. 
 The page is now ready to be put on the www. Simply copy the WWW files to the desired location such that index.php is at the root.
+Script folder does not neeed to be copied.
 ----------------------------
 2) To update if new items are added---------------------------- GenerateImages.py + tradeTable.py
 Requirements: Python 3.7 + Opencv must be installed, progressbar should get automatically installed, safer to have installed before hand.
