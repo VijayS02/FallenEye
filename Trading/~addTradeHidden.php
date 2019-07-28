@@ -21,8 +21,9 @@
 			echo "False.!";
 			return false;
 		}
-		function checkIfLoggedIn($email,$token,$username){
-				/**$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
+		//Not used because not a proper login check 
+		/**function checkIfLoggedIn($email,$token,$username){
+				$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
 				echo "Page: $url <br>";
 				$page = file_get_contents($url);
 				echo $page;
@@ -35,9 +36,8 @@
 						return True;
 
 					}
-				}**/
-				return true;
-		}
+				}
+		}**/
 		function addTradeData($tradeId,$itemName,$quantity,$buySell,$conn,$data){
 
 			$itemName = mysqli_real_escape_string ($conn,$itemName);
@@ -107,11 +107,17 @@
 			$tradId = mysqli_insert_id($conn);
 			echo $tradId."<br>";
 			for($count = 0; $count<sizeof($selling);$count++){
+
 				$val = addTradeData($tradId,$selling[$count],$Selling_Qty[$count],"0",$conn,$parsed);
+
 				if($val==false){
+					
 					return false;
+
 				}else{
+
 					$parsed = $val;
+
 				}
 
 
@@ -142,7 +148,7 @@
 
 		}
 		if(isset($_GET['email']) && isset($_GET['token']) && isset($_GET['accountName']) ){
-			if(checkIfLoggedIn($_GET['email'],$_GET['token'],$_GET['accountName'])){
+			
 			//echo $_SERVER['REQUEST_URI'];
 
 			$query  = explode('&', $_SERVER['QUERY_STRING']);
@@ -166,12 +172,7 @@
 			}
 			addToDb($_GET['accountName'],$params["sell"],$params["sellQuantity"],$params["buy"],$params["buyQuantity"],strval(date("Y-m-d H:i:s")),$comment);
 			header('Location: '. explode("\n",file_get_contents('info.txt'))[0]."\Trading\Add Trade.php");
-			}
-			else{
-				echo "Incorrect login.";
-			}
+			die();
 		}
-			//deleteFromDb("Jeff",3);
-			//echo checkIfItem("Potion of Defense");
 			?>
 </html>

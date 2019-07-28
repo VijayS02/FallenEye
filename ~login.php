@@ -178,6 +178,7 @@ loginBox.addEventListener("keydown", function (e) {
 					 <div id="cont1" style="grid-area:title;float:left;margin-bottom: 5%;"></div><input style="grid-area:mainBx;"id="usrnm" type="text" placeholder="Email" name="usrnm" >
 
 					<input style="grid-area:mainBx;margin-top:4.5em;" id="pswd"  placeholder="Password" type="password" name="passwd" >
+					<input style="grid-area:mainBx;margin-top:7.5em;" id="2fa"  placeholder="2FA Key (If enabled)" type="password" name="2fa" >
 					 <button onclick="loginuser()" class="loginSubBtn" type="submit" style="grid-area:button;"> Submit</button>
 				</div>
 		</div>

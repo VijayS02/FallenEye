@@ -87,7 +87,7 @@ The River Robe,0,0,0
 Water from the River,0,0,0
 Shadowscale's Horn,0,0,0
 Shadow Scales,0,0,0
-The Hidden Armor,1,0,0
+The Hidden Armor,0,0,0
 Wing Necklace,0,0,0
 Shadowbone Sword,0,0,0
 Shadowscale's Skull,0,0,0
@@ -180,7 +180,7 @@ Forsaken Ring,0,0,0
 The Frozen Tome,0,0,0
 Ring of the Cosmos,0,0,0
 Powerful Twig,0,0,0
-Linen Coat,0,0,1
+Linen Coat,0,0,0
 Gray Belt,0,0,0
 Swamp Mirror,0,0,0
 Spectral's Cloak,0,0,0
@@ -251,7 +251,13 @@ Garb of the Frozen Queen,0,0,0
 Amulet of Ascension,0,0,0
 Star of Bones,0,0,0
 Soulfester,0,0,0
-TN Plans_)_ Staff of Annihilation,0,0,0
+TN Plans_ Staff of Annihilation,0,0,0
+Blazetalon,0,0,0
+Flameblast Staff,0,0,0
+Port a Core,0,0,0
+Coat of Flames,0,0,0
+Flameborne Ring,0,0,0
+Purifying Flames,0,0,0
 Alice Blue Clothing Dye,0,0,0
 Alice Blue Accessory Dye,0,0,0
 Antique White Clothing Dye,0,0,0
@@ -1010,7 +1016,7 @@ Ghastly Drape,0,0,0
 Spectral Ring of Horrors,0,0,0
 Sentient Staff,0,0,0
 The Robe of Twilight,0,0,0
-Ancient Spell_)_ Pierce,0,0,0
+Ancient Spell_ Pierce,0,0,0
 The Forgotten Ring,0,0,0
 Zaarvox's Heart,0,0,0
 Amulet of Drakefyre,0,0,0

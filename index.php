@@ -166,7 +166,7 @@
 		<div class="main" style="text-align:center;">
 					<div style="z-index: 0;  position: fixed; top: 50%;left: 50%;margin-left: -145px;margin-top: -310px;" ><img class="textLogoMain"width="290px" height="290px" ></div>
 					<div id="mainSearchBox" style=""> <form action="/Trading/Current Offers.php" ><input type="text" name="item" ></form></div>
-					<p style="  position: fixed; top: 60%;left: 25%;width:50vw;text-align: left;" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam quia quaerat tempora, molestias molestiae sequi minus deleniti repellendus, voluptatum cum hic! Dolores consectetur quam, delectus nam, vitae iure! Ab architecto itaque voluptatum dolorum ad veritatis, eveniet iure pariatur velit natus aliquid consectetur veniam quas et, sed exercitationem obcaecati cupiditate aliquam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore id distinctio, impedit quasi, quod, corporis voluptates quam harum quae eius provident at laboriosam pariatur. Unde impedit a repudiandae totam harum eos id quas atque illum natus repellendus in, ipsa expedita fugit. Repellat exercitationem facere maxime illo aliquid, aliquam voluptates repudiandae.</p>
+					<p style="  position: fixed; top: 57%;left: 25%;width:50vw;text-align: center;font-size:15px;" >Made by <i>Vijay Sambamurthy & ROTF Team</i></p>
 
 			
 		</div>

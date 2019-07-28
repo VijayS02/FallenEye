@@ -1121,7 +1121,7 @@ box-shadow: 0px 2px 13px -3px rgba(0,0,0,0.75);
 
 .loginBox input[type=text], input[type=password]{
   margin-top:5%;
-  backgroud
+  color:white;
   font-family:Arial, FontAwesome;
   width: 25vw;
   height:2em;

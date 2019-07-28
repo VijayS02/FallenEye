@@ -1,3 +1,4 @@
+Blacklisted : Test-Enemy-Item By File: lofiChar8x8
 Restricted : 100 Fame
 Restricted : 1000 Fame
 Restricted : 5000 Fame
@@ -281,6 +282,7 @@ Restricted : Necrotic Token x 197
 Restricted : Necrotic Token x 198
 Restricted : Necrotic Token x 199
 Restricted : Necrotic Token x 200
+Restricted : Incinerator's Ring
 Restricted : Common Feline Egg
 Restricted : Uncommon Feline Egg
 Restricted : Rare Feline Egg
@@ -404,6 +406,7 @@ Restricted : Effusion of Dexterity
 Restricted : Effusion of Life
 Restricted : Effusion of Mana
 Restricted : Effusion of Defense
+Blacklisted : Ring-of-Minor-Defense
 Restricted : Purple Drake Egg
 Restricted : White Drake Egg
 Restricted : Blue Drake Egg
@@ -970,112 +973,113 @@ Restricted : Spirit Egg
 Restricted : Sprite Star Egg
 Restricted : Valentine Heart Generator
 Restricted : Pet Rock Item
-Marid Pet Stone
-Jaco Pet Stone
-Turtle Pet Stone
-Peppermint Snail Pet Stone
-Golden Crab Pet Stone
-Robobuddy Pet Stone
-Redbot Pet Stone
-Gutsbot Pet Stone
-Cardinal Pet Stone
-USA Eagle Pet Stone
-Griffin Pet Stone
-Sheepdog Pet Stone
-Gold Bulldog Pet Stone
-Golden Hyena Pet Stone
-Elephant Pet Stone
-Panda Pet Stone
-King Gorilla Pet Stone
-Duck Pet Stone
-Mallard Pet Stone
-Enraged Yack Pet Stone
-Tan Cat Pet Stone
-White Lion Pet Stone
-Tiger Pet Stone
-Leprechaun Pet Stone
-Red Ant Pet Stone
-Bee Pet Stone
-Beetleman Pet Stone
-Penguin Pet Stone
-Karate Purple Pet Stone
-Tank Penguin Pet Stone
-Dino Pet Stone
-Frilled Lizard Pet Stone
-Poison Drake Pet Stone
-Spirit Pet Stone
-Werewolf Cub Pet Stone
-Hamster Pet Stone
-Snowy Owl Pet Stone
-Sprite Star Pet Stone
-Gummy Bear Pet Stone
-Fire Rooster Pet Stone
-Rooster of Good Fortune Pet Stone
-Mini Chinese Dragon Pet Stone
-Gingerbread Man Pet Stone
-Mini Polaris Pet Stone
-Paper Lantern Pet Stone
-Chinese Dragon Pet Stone
-Desert Cobra Pet Stone
-White Bounsheep Pet Stone
-Grey Bounsheep Pet Stone
-Brown Bounsheep Pet Stone
-Bes' Artifact Pet Stone
-Geb's Artifact Pet Stone
-Nut's Artifact Pet Stone
-Mini Sphinx Pet Stone
-Mini Crystal Steed Pet Stone
-Carnivorous Plant Pet Stone
-Knight Companion Pet Stone
-Mr Cactus Jr. Pet Stone
-Mr Cactus Pet Stone
-Mini Limon Pet Stone
-Killer Bee Queen Pet Stone
-Mini Stone Oryx Pet Stone
-Mini Gigacorn Pet Stone
-Mini Creampuff Pet Stone
-Mini Desire Troll Pet Stone
-Mini Rototo Pet Stone
-Mini Pet Stheno Pet Stone
-Surfing Bro Pet Stone
-Mini Ghost King Pet Stone
-Robo Brain Pet Stone
-Baby Orange Drake Pet Stone
-Baby Yellow Drake Pet Stone
-Baby White Drake Pet Stone
-Baby Green Drake Pet Stone
-Baby Leviathan Pet Stone
-Baby Blue Drake Pet Stone
-Baby Purple Drake Pet Stone
-HP Pot Pet Stone
-MP Pot Pet Stone
-Crowned Penguin Pet Stone
-Mini Void Entity Pet Stone
-Hoverbot Pet Stone
-Zombie Dog Pet Stone
-Green Whale Pet Stone
-Pumpking's Head Pet Stone
-Manticore Pet Stone
-Flying Pig Pet Stone
-Double Viper Pet Stone
-Black Hellhound Pet Stone
-Deerigator Pet Stone
-Moon Bunny Pet Stone
-Hungry Pumpkin Pet Stone
-Evil Ghost Pet Stone
-Spooky Boi Pet Stone
-Walking Grave Pet Stone
-Autumn Hedgehog Pet Stone
-Mini Ghost Ship Pet Stone
-Mini Model Ship Pet Stone
-Healbot Pet Stone
-Sugar Skull Pet Stone
-Senor Skeleton Pet Stone
-Flying Eyeball Pet Stone
-Mini Cauldron Pet Stone
-Doom's Steed Pet Stone
-Lichwyrm Pet Stone
-Cauldron Pet Stone
+Marid-Pet-Stone
+Jaco-Pet-Stone
+Turtle-Pet-Stone
+Peppermint-Snail-Pet-Stone
+Golden-Crab-Pet-Stone
+Robobuddy-Pet-Stone
+Redbot-Pet-Stone
+Gutsbot-Pet-Stone
+Cardinal-Pet-Stone
+USA-Eagle-Pet-Stone
+Griffin-Pet-Stone
+Sheepdog-Pet-Stone
+Gold-Bulldog-Pet-Stone
+Golden-Hyena-Pet-Stone
+Elephant-Pet-Stone
+Panda-Pet-Stone
+King-Gorilla-Pet-Stone
+Duck-Pet-Stone
+Mallard-Pet-Stone
+Enraged-Yack-Pet-Stone
+Tan-Cat-Pet-Stone
+White-Lion-Pet-Stone
+Tiger-Pet-Stone
+Leprechaun-Pet-Stone
+Red-Ant-Pet-Stone
+Bee-Pet-Stone
+Beetleman-Pet-Stone
+Penguin-Pet-Stone
+Karate-Purple-Pet-Stone
+Tank-Penguin-Pet-Stone
+Dino-Pet-Stone
+Frilled-Lizard-Pet-Stone
+Poison-Drake-Pet-Stone
+Spirit-Pet-Stone
+Werewolf-Cub-Pet-Stone
+Hamster-Pet-Stone
+Snowy-Owl-Pet-Stone
+Sprite-Star-Pet-Stone
+Gummy-Bear-Pet-Stone
+Fire-Rooster-Pet-Stone
+Rooster-of-Good-Fortune-Pet-Stone
+Mini-Chinese-Dragon-Pet-Stone
+Gingerbread-Man-Pet-Stone
+Mini-Polaris-Pet-Stone
+Paper-Lantern-Pet-Stone
+Chinese-Dragon-Pet-Stone
+Desert-Cobra-Pet-Stone
+White-Bounsheep-Pet-Stone
+Grey-Bounsheep-Pet-Stone
+Brown-Bounsheep-Pet-Stone
+Bes'-Artifact-Pet-Stone
+Geb's-Artifact-Pet-Stone
+Nut's-Artifact-Pet-Stone
+Mini-Sphinx-Pet-Stone
+Mini-Crystal-Steed-Pet-Stone
+Carnivorous-Plant-Pet-Stone
+Knight-Companion-Pet-Stone
+Mr-Cactus-Jr.-Pet-Stone
+Mr-Cactus-Pet-Stone
+Mini-Limon-Pet-Stone
+Killer-Bee-Queen-Pet-Stone
+Mini-Stone-Oryx-Pet-Stone
+Mini-Gigacorn-Pet-Stone
+Mini-Creampuff-Pet-Stone
+Mini-Desire-Troll-Pet-Stone
+Mini-Rototo-Pet-Stone
+Mini-Pet-Stheno-Pet-Stone
+Surfing-Bro-Pet-Stone
+Mini-Ghost-King-Pet-Stone
+Robo-Brain-Pet-Stone
+Baby-Orange-Drake-Pet-Stone
+Baby-Yellow-Drake-Pet-Stone
+Baby-White-Drake-Pet-Stone
+Baby-Green-Drake-Pet-Stone
+Baby-Leviathan-Pet-Stone
+Baby-Blue-Drake-Pet-Stone
+Baby-Purple-Drake-Pet-Stone
+HP-Pot-Pet-Stone
+MP-Pot-Pet-Stone
+Crowned-Penguin-Pet-Stone
+Mini-Void-Entity-Pet-Stone
+Hoverbot-Pet-Stone
+Zombie-Dog-Pet-Stone
+Green-Whale-Pet-Stone
+Pumpking's-Head-Pet-Stone
+Manticore-Pet-Stone
+Flying-Pig-Pet-Stone
+Double-Viper-Pet-Stone
+Black-Hellhound-Pet-Stone
+Deerigator-Pet-Stone
+Moon-Bunny-Pet-Stone
+Hungry-Pumpkin-Pet-Stone
+Evil-Ghost-Pet-Stone
+Spooky-Boi-Pet-Stone
+Walking-Grave-Pet-Stone
+Autumn-Hedgehog-Pet-Stone
+Mini-Ghost-Ship-Pet-Stone
+Mini-Model-Ship-Pet-Stone
+Healbot-Pet-Stone
+Sugar-Skull-Pet-Stone
+Senor-Skeleton-Pet-Stone
+Flying-Eyeball-Pet-Stone
+Mini-Cauldron-Pet-Stone
+Doom's-Steed-Pet-Stone
+Lichwyrm-Pet-Stone
+Cauldron-Pet-Stone
+Blacklisted : Prod-Enemy-Item By File: lofiChar8x8
 Restricted : GH1 Key
 Restricted : GH2 Key
 Restricted : GH3 Key

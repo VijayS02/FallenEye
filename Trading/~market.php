@@ -15,10 +15,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title><?php if(isset($_GET['item'])){
+							
+							echo str_replace("_",":",$_GET['item']);
 
-				echo $_GET['item'];
-
-			}?></title>
+							}?></title>
 	<script src=<?php print_r("\"".explode("\n",file_get_contents('info.txt'))[0]."/jquery-3.4.1.js"."\"")?>></script>
 	<link id="themeStyle" rel="stylesheet" type="text/css" href=<?php print_r(explode("\n",file_get_contents('info.txt'))[0]."/");print_r(genMode());?>>
 	<link rel="icon" type="image/png" href=<?php print_r("\"".explode("\n",file_get_contents('info.txt'))[0]."\assets/favicon/favicon-96x96.png"."\"")?>>
@@ -157,10 +157,10 @@
 		</div>
 		<div class="main">
 					<h1><?php if(isset($_GET['item'])){
+							
+							echo str_replace("_",":",$_GET['item']);
 
-				echo $_GET['item'];
-
-			}?>
+							}?>
 </h1>
 					<p id="avgFame">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis incidunt dignissimos error est ut rem ea quibusdam? A vitae consequuntur accusantium beatae ipsam culpa nemo nisi quia, eaque perferendis! Minima!</p>
 					<p> <b> There is a 1 second delay before confirming  purchase to prevent accidents.</b></p>
@@ -182,12 +182,12 @@
 					searchMarket(<?php 
 						if(isset($_GET['item'])){
 
-					echo '"'.$_GET['item'].'"';
+					echo '"'.str_replace("_",":",$_GET['item']).'"';
 
 				}?>,<?php 
 			if(isset($_GET['item'])){
 
-				echo '"'.$curLoc.'/src/items/'.str_replace(" ","-",$_GET['item']).'"';
+				echo '"'.$curLoc.'/src/items/'.str_replace(":","_",str_replace(" ","-",$_GET['item'])).'"';
 
 			}
 

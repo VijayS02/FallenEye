@@ -15,10 +15,10 @@
 <head>
 	<meta charset="UTF-8">
 	<title><?php if(isset($_GET['item'])){
+							
+							echo str_replace("_",":",$_GET['item']);
 
-				echo $_GET['item'];
-
-			}?></title>
+							}?></title>
 	<script src=<?php print_r("\"".explode("\n",file_get_contents('info.txt'))[0]."/jquery-3.4.1.js"."\"")?>></script>
 	<link id="themeStyle" rel="stylesheet" type="text/css" href=<?php print_r(explode("\n",file_get_contents('info.txt'))[0]."/");print_r(genMode());?>>
 	<link rel="icon" type="image/png" href=<?php print_r("\"".explode("\n",file_get_contents('info.txt'))[0]."\assets/favicon/favicon-96x96.png"."\"")?>>
@@ -71,6 +71,8 @@
 			
 		}
 		function getBuying($item,$item2){
+			$item = str_replace(":","_",$item);
+			$item2 = str_replace(":","_",$item2);
 			$servername = "localhost";
 			$username = "rotfWebsite";
 			$password = "rotfiscool101";
@@ -117,7 +119,6 @@
 		function createTrade($data,$seller,$time,$comment){
 			$sell = "";
 			$buy = "";
-
 			foreach ($data as $var) {
 				if($var['tradeMode']==0){
 						$sell = $sell . "<div title=\"".$var['itemName']."\" class=\"srchResItem\">";
@@ -244,9 +245,10 @@
 					if(strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false){
 						$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp1 = (str_replace("_",":",$temp));
     				print_r('
 				<div title="');
-				print_r($temp);
+				print_r($temp1);
 				print_r('" class="itemSelectorItem" id="');
     				print_r($temp);
     				print_r('"><img class="itemSelectorImage"  src="'.$curLoc.'\src\items\\');
@@ -324,7 +326,7 @@
 		<div class="main">
 					<h1><?php if(isset($_GET['item'])){
 
-							echo $_GET['item'];
+							echo str_replace("_",":",$_GET['item']);
 
 							}?>
 					</h1>
@@ -373,23 +375,23 @@
 				function setTradSrchImgs(item1,item2){
   $("#buy0 .itemSelectorHidden").val(item1);
   $("#buy0 .itemSelectorBtnTxt").remove();
-  var imgpath = curPath+ "/src/items/"+item1.replace(/ /g,"-") + ".png";
+  var imgpath = curPath+ "/src/items/"+item1.replace(/ /g,"-").replace(":","_") + ".png";
   $("#buy0 .itemSelectorBtnImg").attr("src",imgpath );
   $("#buy0 .itemSelectorBtnImg").css("display","block");
 
   if(item2.trim() != "" && item2.trim() != "NONE---"){
      $("#sel0 .itemSelectorHidden").val(item2);
      $("#sel0 .itemSelectorBtnTxt").remove();
-   var imgpath = curPath+ "/src/items/"+item2.replace(/ /g,"-") + ".png";
+   var imgpath = curPath+ "/src/items/"+item2.replace(/ /g,"-").replace(":","_") + ".png";
   $("#sel0 .itemSelectorBtnImg").attr("src",imgpath );
   $("#sel0 .itemSelectorBtnImg").css("display","block");
   }
 
-}
+} 
 				setTradSrchImgs(<?php if(isset($_GET['item'])){
 				$dat = "";
 				if(isset($_GET['item2'])){$dat =$_GET['item2']; }
-				print_r('"'.$_GET['item'].'","'.$dat.'"');} ?>)
+				print_r('"'.$_GET['item'].'","'.str_replace(":","_",$dat).'"');} ?>)
 
 			</script>
 			<div id="tradCont">	

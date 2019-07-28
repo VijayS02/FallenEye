@@ -14,7 +14,6 @@ function setCookie(email,token,name,guildID,fame,rank) {
 
 //console.log("Called.");
 var id =0;
-var tmp = [];
 var loggedIn = false;
 var email = "";
 var token = "";
@@ -198,14 +197,25 @@ function main(){
 
 
   //console.log("https://ae.rotf.io/guild/listMembers?guid="+encodeURI(email+"&token="+token));
+  //Check if users token and email will work
   getHTML("https://ae.rotf.io/guild/listMembers?guid="+encodeURI(email+"&token="+token), function (responsestring) {
     var parser = new DOMParser(); 
     
     
     response = parser.parseFromString(responsestring,"application/xml")
       //console.log("Data recieved.");
-      if(response.documentElement.innerHTML == "Bad Login") {
+      if(response.documentElement.innerHTML == "Bad Login" || response.documentElement.innerHTML == "Login token expired") {
+
         console.log("Login Failed.");
+          var path = "/";
+          //console.log(" logout Called.");
+          var expires = "expires= Thu, 01 Jan 1970 00:00:00 GMT"
+          document.cookie =  "email= ;" + expires + "; path="+path+";";
+          document.cookie =  "token= ;" + expires + ";path="+path+";";
+          document.cookie =  "name= ;" + expires + ";path="+path+";";
+          document.cookie =  "guildID= ;" + expires + ";path="+path+";";
+          document.cookie =  "fame= ;" + expires + ";path="+path+";";
+          document.cookie =  "rank= ;" + expires + ";path="+path+";";
         //console.log("https://ae.rotf.io/guild/listMembers?guid="+encodeURI(email+"&token="+token));
         //console.log(reqLogin);
         try{
@@ -262,17 +272,19 @@ function main(){
 
 
 function loginuser() {
+  //ADD 2FA QUERY (Option box)
   //console.log(" loginuser Called.");
   loaderOn();
   //start loading animation
   var email = document.getElementById("usrnm").value;
   var psw = document.getElementById("pswd").value;
+  var twoFa = document.getElementById("2fa").value.replace(" ","");
 
   email = encodeURI(email.trim());
   pass = encodeURI(psw.trim());
   var parser = new DOMParser();
   //console.log("Sending data.");
-  getHTML("https://ae.rotf.io/account/verify?guid="+email+"&gameClientVersion=X3.4&cacheBust=522542&password="+pass, function (responsestring) {
+  getHTML("https://ae.rotf.io/account/verify?guid="+email+"&gameClientVersion=X3.4&cacheBust=522542&password="+pass+"&2fa="+twoFa, function (responsestring) {
       //console.log('http://192.223.31.195/account/verify?ignore=3548773&guid='+email.value+'&gameClientVersion=X2.2&cacheBust=522542&password='+psw.value)
       response = parser.parseFromString(responsestring,"application/xml")
       console.log("Data recieved.");
@@ -316,6 +328,30 @@ function loginuser() {
         para.className = "shake"
         para.style.gridArea = "title";
         para.innerText = "Rate Limit Exceeded.";
+        para.style.color = "red";
+        para.style.marginTop = "12vh";
+        para.style.marginBottom = 0;
+        document.getElementById('cont1').insertBefore(para,null);
+      }
+    }
+      else if(response.documentElement.innerHTML.indexOf( "Bad 2fa pin") != -1){
+        if(document.getElementById("alertText")!= null){
+          var para = document.getElementById("alertText");
+          para.className = "temp";
+          para.innerText = "Incorrect 2fa pin.";
+
+          setTimeout(function() {
+            para.className = "shake";
+          }, 50);
+          
+        }else{
+        var loginbox = document.getElementById("loginBox");
+        inhtm = loginbox.innerHTML;
+        var para = document.createElement("P"); 
+        para.id == "alertText";
+        para.className = "shake"
+        para.style.gridArea = "title";
+        para.innerText = "Incorrect 2fa pin.";
         para.style.color = "red";
         para.style.marginTop = "12vh";
         para.style.marginBottom = 0;

@@ -127,6 +127,14 @@
 			};
 		}
 		function createTradeBlocks($curLoc){
+			$page = explode(",",file_get_contents("https://ae.rotf.io/auctionHouse/getNumAuctions"));
+			$parsed3 = array();
+			foreach($page as $val){
+				$temp = explode("~|~",$val);
+				array_push($parsed3,$temp);
+
+			}
+
 			$data = explode("\n",file_get_contents(explode("\n",file_get_contents('info.txt'))[0]."\src\items\data.txt"));
 
 			$parsed = array();
@@ -138,8 +146,17 @@
 
 			$data2 = explode("\n",file_get_contents("data.txt"));
 			$parsed2 = array();
+			$names = array();
+			for($t = 0;$t<sizeof($parsed3);$t++){
+					array_push($names,$parsed3[$t][0]);
+			}
 			foreach($data2 as $val){
 				$temp = explode(",",$val);
+				$x = array_search(str_replace("_",":",$temp[0]),$names);
+				if($x !== false){
+					$temp[0] = str_replace("_",":",$temp[0]);
+					$temp[2] = $parsed3[$x][1];
+				}
 				array_push($parsed2,$temp);
 
 			}
@@ -147,17 +164,20 @@
 				$item = $parsed[$x];
 				$buys = $parsed2[$x][3];
 				$sells = $parsed2[$x][1];
+				$mark = $parsed2[$x][2];
+
 				if(isset($_GET['item'])){
 
 					if(!empty(trim($_GET['item']))){
 					if(strpos(strtolower(str_replace("-"," ",$item[0])), strtolower($_GET['item'])) !== false && strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false){
 						$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp = (str_replace("_",":",$temp));
     				print_r('
 				<div class="item" id="');
     				print_r($temp);
     				print_r('" style="width:100%;height:100%;">
-				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">-</a></div>
+				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">'.$mark.'</a></div>
 				<div class="itemBuyOffers" ><a class="itmLnk" title="Offers to buy '.$temp.'" href="~buy.php?item='.urlencode($temp).'">'.$buys.'</a></div>
 				<div class="itemSellOffers"><a class="itmLnk" title="Offers to sell '.$temp.'" href="~sell.php?item='.urlencode($temp).'">'.$sells.'</a></div>
 				<a class="itemImageLink" title="'.$temp.'" href="#"><img class="itemImage"  src='.$curLoc.'\src\items\\');
@@ -166,12 +186,13 @@
 					}else if(strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false){
 						$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp = (str_replace("_",":",$temp));
 					print_r(strpos(strtolower(str_replace("-"," ",$item[0])), strtolower($_GET['item'])));
     				print_r('
 				<div class="item" id="');
     				print_r($temp);
     				print_r('" style="width:100%;height:100%;display:none;">
-				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">-</a></div>
+				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">'.$mark.'</a></div>
 				<div class="itemBuyOffers" ><a class="itmLnk" title="Offers to buy '.$temp.'" href="~buy.php?item='.urlencode($temp).'">'.$buys.'</a></div>
 				<div class="itemSellOffers"><a class="itmLnk" title="Offers to sell '.$temp.'" href="~sell.php?item='.urlencode($temp).'">'.$sells.'</a></div>
 				<a class="itemImageLink" title="'.$temp.'" href="#"><img class="itemImage"  src='.$curLoc.'\src\items\\');
@@ -181,11 +202,12 @@
 				}else if(strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false){
 					$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp = (str_replace("_",":",$temp));
     				print_r('
 				<div class="item" id="');
     				print_r($temp);
     				print_r('" style="width:100%;height:100%;">
-				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">-</a></div>
+				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">'.$mark.'</a></div>
 				<div class="itemBuyOffers" ><a class="itmLnk" title="Offers to buy '.$temp.'" href="~buy.php?item='.urlencode($temp).'">'.$buys.'</a></div>
 				<div class="itemSellOffers"><a class="itmLnk" title="Offers to sell '.$temp.'" href="~sell.php?item='.urlencode($temp).'">'.$sells.'</a></div>
 				<a class="itemImageLink" title="'.$temp.'" href="#"><img class="itemImage"  src='.$curLoc.'\src\items\\');
@@ -200,11 +222,12 @@
 				else if ( strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false) {
 					$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp = (str_replace("_",":",$temp));
     				print_r('
 				<div class="item" id="');
     				print_r($temp);
     				print_r('" style="width:100%;height:100%;">
-				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">-</a></div>
+				<div class="itemMarketOffers" > <a class="itmLnk" title="Market offers for '.$temp.'" href="~market.php?item='.urlencode($temp).'">'.$mark.'</a></div>
 				<div class="itemBuyOffers" ><a class="itmLnk" title="Offers to buy '.$temp.'" href="~buy.php?item='.urlencode($temp).'">'.$buys.'</a></div>
 				<div class="itemSellOffers"><a class="itmLnk" title="Offers to sell '.$temp.'" href="~sell.php?item='.urlencode($temp).'">'.$sells.'</a></div>
 				<a class="itemImageLink" title="'.$temp.'" href="#"><img class="itemImage"  src='.$curLoc.'\src\items\\');

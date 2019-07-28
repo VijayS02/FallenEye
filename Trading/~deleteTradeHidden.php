@@ -21,8 +21,9 @@
 			echo "False.!";
 			return false;
 		}
-		function checkIfLoggedIn($email,$token,$username){
-				/**$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
+		//Not used because not a proper login check 
+		/**function checkIfLoggedIn($email,$token,$username){
+				$url ="https://ae.rotf.io/guild/listMembers?guid=".urlencode($email)."&token=".urlencode($token);
 				echo "Page: $url <br>";
 				$page = file_get_contents($url);
 				echo $page;
@@ -35,9 +36,8 @@
 						return True;
 
 					}
-				}**/
-				return true;
-		}
+				}
+		}**/
 		function addTradeData($tradeId,$itemName,$quantity,$buySell,$conn,$data){
 
 			$itemName = mysqli_real_escape_string ($conn,$itemName);
@@ -144,15 +144,10 @@
 
 		}
 		if(isset($_GET['email']) && isset($_GET['token']) && isset($_GET['accountName']) && isset($_GET["tradeId"]) )
-			if(checkIfLoggedIn(urldecode($_GET['email']),urldecode($_GET['token']),urldecode($_GET['accountName']))){
 			//echo $_SERVER['REQUEST_URI']
 			deleteFromDb($_GET['accountName'],$_GET["tradeId"]);
 			header('Location: '. explode("\n",file_get_contents('info.txt'))[0]."\Trading\Delete Trade.php");
 			die();
-			}
-			else{
-				echo "Incorrect login.";
-			}
 			//deleteFromDb("Jeff",3);
 			//echo checkIfItem("Potion of Defense");
 			?>

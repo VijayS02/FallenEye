@@ -1,0 +1,4 @@
+100-Fame,Equipment,custom8x8,0x079,0xFFFF
+1000-Fame,Equipment,custom8x8,0x07a,0xFFFF
+5000-Fame,Equipment,custom8x8,0x07b,0xFFFF
+500-Fame,Equipment,custom8x8,0x089,0xFFFF

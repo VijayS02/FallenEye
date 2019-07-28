@@ -1,0 +1,3 @@
+lofiChar8x8
+LofiObj
+Ring of Minor Defense

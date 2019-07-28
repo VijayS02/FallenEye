@@ -82,9 +82,10 @@
 					if(strpos($item[0], 'Dye') == false  && strpos($item[0], 'Cloth') == false){
 						$name = $item[0];
 					$temp = (str_replace("-"," ",$name));
+					$temp1 = (str_replace("_",":",$temp));
     				print_r('
 				<div title="');
-				print_r($temp);
+				print_r($temp1);
 				print_r('" class="itemSelectorItem" id="');
     				print_r($temp);
     				print_r('"><img class="itemSelectorImage"  src="'.$curLoc.'\src\items\\');
