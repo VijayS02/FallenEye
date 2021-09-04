@@ -1,3 +1,14 @@
+# What is this?
+This website was written back when ROTF (Revenge of the fallen), a highly populated private server forked off Realm of the Mad god (aced.gg) was not shut down. It was used to generate a trading platform for items similar to what realmeye.com does for RotMG. This website was connecting to endpoints in the game to make trading possible without actually having the game open.
+
+## Is it depriciated?
+Yes, this website will no longer function no matter where it is setup as it is 
+ 1) Very old
+ 2) The endpoints cannot be accessed anymore
+ 3) RotF has shut down due to a cease and decist from RotMG (deca)
+ 4) The code can be improved (drastically)
+
+
 # Setting up website on a server
 Requirements: database must have a user and setup  as follows:
 servername = "localhost"
